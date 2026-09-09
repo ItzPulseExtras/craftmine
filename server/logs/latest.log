@@ -1,126 +1,148 @@
-[00:17:45] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
-[00:17:45] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-111-main@f570646 (2026-08-07T16:16:19Z) for Minecraft 26.2
-[00:17:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:17:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[00:17:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[03:42:50] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4.1+1-LTS; Microsoft Microsoft-14951822) on Linux 6.8.0-1052-azure (amd64)
+[03:42:50] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-111-main@f570646 (2026-08-07T16:16:19Z) for Minecraft 26.2
+[03:42:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:42:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[03:42:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - AxSmithing (1.9), TuffXPlus (1.1.1), ViaBackwards (5.11.0), ViaVersion (5.11.0)
-[00:17:53] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[00:17:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[00:17:55] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,942.9ms
-[00:17:59] [ServerMain/INFO]: Loaded 1585 recipes
-[00:17:59] [ServerMain/INFO]: Loaded 1688 advancements
-[00:17:59] [Server thread/INFO]: Starting minecraft server version 26.2
-[00:17:59] [Server thread/INFO]: Loading properties
-[00:17:59] [Server thread/INFO]: This server is running Paper version 26.2-111-main@f570646 (2026-08-07T16:16:19Z) (Implementing API version 26.2.build.111-stable)
-[00:17:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:17:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:17:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:18:00] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:18:01] [Server thread/INFO]: Default game type: SURVIVAL
-[00:18:01] [Server thread/INFO]: Generating keypair
-[00:18:01] [Server thread/INFO]: Starting Minecraft server on *:25567
-[00:18:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:18:01] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[00:18:03] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
-[00:18:03] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
-[00:18:05] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:18:05] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:18:06] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
-[00:18:06] [Server thread/INFO]: [AxSmithing] Loading server plugin AxSmithing v1.9
-[00:18:06] [Server thread/INFO]: [TuffXPlus] Loading server plugin TuffXPlus v1.1.1
-[00:18:07] [Server thread/INFO]: [packetevents] Loading packetevents...
-[00:18:10] [Server thread/INFO]: [packetevents] Loaded packetevents v2.13.0 for TuffXPlus
-[00:18:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:18:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:18:10] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[00:18:10] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
-[00:18:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:18:10] [Server thread/INFO]: Preparing level "world"
-[00:18:11] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[00:18:11] [Server thread/INFO]: Preparing spawn area: 100%
-[00:18:11] [Server thread/INFO]: Prepared spawn area in 8 ms
-[00:18:11] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[00:18:11] [Server thread/INFO]: Prepared spawn area in 3 ms
-[00:18:11] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[00:18:11] [Server thread/INFO]: Prepared spawn area in 4 ms
-[00:18:11] [Server thread/INFO]: Done preparing level "world" (1.447s)
-[00:18:11] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
-[00:18:11] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
-[00:18:11] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
-[00:18:11] [Server thread/INFO]: [AxSmithing] Enabling AxSmithing v1.9
-[00:18:12] [Server thread/INFO]: [TuffXPlus] Enabling TuffXPlus v1.1.1
-[00:18:12] [Server thread/INFO]: [TuffXPlus] Using standard Bukkit-compatible schedulers.
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [Y0] Server Minecraft Version: 26.2
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] Successfully loaded 1326 creative tab mappings.
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] TuffActions has been enabled
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] Enabling features...
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] Swimming enabled.
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] Creative Items enabled.
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] Loading Restrictions config...
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] Restrictions enabled.
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [TuffActions] Finished enabling features.
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Generating ViaBlocks Pre-Defined Palette...
-[00:18:12] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Palette initialized with 649 entries.
-[00:18:13] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been enabled successfully and is listening for client handshakes.
-[00:18:13] [Server thread/INFO]: [TuffXPlus] [ViaEntities] ViaEntities enabled with 43 modern entities
-[00:18:13] [Server thread/INFO]: [TuffXPlus] 
-[00:18:13] [Server thread/INFO]: [TuffXPlus] ████████╗██╗   ██╗███████╗ ███████╗ ██╗  ██╗     ██╗
-[00:18:13] [Server thread/INFO]: [TuffXPlus] ╚══██╔══╝██║   ██║██╔════╝ ██╔════╝ ╚██╗██╔╝     ██║
-[00:18:13] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██████╗  ██████╗   ╚███╔╝ ████████████╗
-[00:18:13] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██╔═══╝  ██╔═══╝   ██╔██╗ ╚════██╔════╝
-[00:18:13] [Server thread/INFO]: [TuffXPlus]    ██║   ╚██████╔╝██║      ██║      ██╔╝╚██╗     ██║
-[00:18:13] [Server thread/INFO]: [TuffXPlus]    ╚═╝    ╚═════╝ ╚═╝      ╚═╝      ╚═╝  ╚═╝     ╚═╝
-[00:18:13] [Server thread/INFO]: [TuffXPlus] 
-[00:18:13] [Server thread/INFO]: [TuffXPlus] CREDITS
-[00:18:13] [Server thread/INFO]: [TuffXPlus] 
-[00:18:13] [Server thread/INFO]: [TuffXPlus] Y0 support:
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • Below y0 (client + plugin) programmed by Potato (@justatypicalpotato)
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • llucasandersen - plugin optimizations
-[00:18:13] [Server thread/INFO]: [TuffXPlus] 
-[00:18:13] [Server thread/INFO]: [TuffXPlus] ViaBlocks:
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • ViaBlocks partial plugin and client rewrite by Potato
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • llucasandersen (Complex client models and texture fixes,
-[00:18:13] [Server thread/INFO]: [TuffXPlus] 	  optimizations, PacketEvents migration and async safety fixes)
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • coleis1op, if ts is driving me crazy, im taking credit
-[00:18:13] [Server thread/INFO]: [TuffXPlus] 
-[00:18:13] [Server thread/INFO]: [TuffXPlus] Other:
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • Swimming and creative items programmed by Potato (@justatypicalpotato)
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • shaded build, 1.14+ support (before merge) - llucasandersen
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • Restrictions - UplandJacob
-[00:18:13] [Server thread/INFO]: [TuffXPlus] • Overall plugin merges by Potato
-[00:18:13] [Server thread/INFO]: [spark] Starting background profiler...
-[00:18:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:18:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:18:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:18:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:18:17] [Server thread/INFO]: Running delayed init tasks
-[00:18:17] [Server thread/INFO]: [TuffXPlus] [Y0] Loading mappings from 26.2-mappings.json
-[00:18:17] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:18:18] [Server thread/INFO]: [TuffXPlus] [Y0] Loaded 29671 legacy mappings.
-[00:18:18] [Server thread/INFO]: Done (34.211s)! For help, type "help"
-[00:47:46] [User Authenticator #0/INFO]: UUID of player Hyriskalt is 5f28247f-2b30-32f1-9cb9-f2d1adf81e83
-[00:47:48] [Server thread/INFO]: Hyriskalt joined the game
-[00:47:49] [Server thread/INFO]: Hyriskalt[/[0:0:0:0:0:0:0:1]:44074] logged in with entity id 56 at ([minecraft:overworld]-962.696363912586, -0.7999999523162841, -102.29288296792475)
-[00:49:26] [Server thread/INFO]: Hyriskalt lost connection: Disconnected
-[00:49:26] [Server thread/INFO]: Hyriskalt left the game
-[01:19:07] [User Authenticator #1/INFO]: UUID of player Hyriskalt is 5f28247f-2b30-32f1-9cb9-f2d1adf81e83
-[01:19:07] [Server thread/INFO]: Hyriskalt joined the game
-[01:19:07] [Server thread/INFO]: Hyriskalt[/[0:0:0:0:0:0:0:1]:36376] logged in with entity id 360 at ([minecraft:overworld]-962.5304498433924, 4.3968299889744324, -102.30000001192093)
-[01:21:20] [Server thread/INFO]: Hyriskalt lost connection: Disconnected
-[01:21:20] [Server thread/INFO]: Hyriskalt left the game
-[01:30:29] [User Authenticator #2/INFO]: UUID of player Hyrisks is 31937d5e-fa36-3d80-8d9d-5c9d1e8afb25
-[01:30:30] [Server thread/INFO]: Hyrisks joined the game
-[01:30:30] [Server thread/INFO]: Hyrisks[/127.0.0.1:41628] logged in with entity id 709 at ([minecraft:overworld]-957.4808312253056, -3.799999952316284, -100.69999998807907)
-[01:32:06] [User Authenticator #3/INFO]: UUID of player Hyriskalts is 4386e84b-af44-35ad-85a8-a40964976e5a
-[01:32:06] [Server thread/INFO]: Hyriskalts joined the game
-[01:32:06] [Server thread/INFO]: Hyriskalts[/[0:0:0:0:0:0:0:1]:57262] logged in with entity id 1015 at ([minecraft:overworld]-947.5, 79.0, -112.5)
-[01:32:28] [Server thread/INFO]: Hyriskalts was slain by Zombie
-[01:32:36] [Server thread/INFO]: Hyrisks has made the advancement [Monster Hunter]
-[01:33:19] [Server thread/INFO]: Hyriskalts was slain by Hyrisks
-[01:33:34] [Server thread/INFO]: Hyrisks lost connection: Disconnected
-[01:33:35] [Server thread/INFO]: Hyrisks left the game
-[01:33:40] [Server thread/INFO]: Hyriskalts lost connection: Disconnected
-[01:33:40] [Server thread/INFO]: Hyriskalts left the game
+[03:43:01] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:43:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:43:03] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,821.9ms
+[03:43:03] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[03:43:05] [Worker-Main-1/INFO]: No existing world data, creating new world
+[03:43:07] [ServerMain/INFO]: Loaded 1585 recipes
+[03:43:07] [ServerMain/INFO]: Loaded 1688 advancements
+[03:43:07] [Server thread/INFO]: Starting minecraft server version 26.2
+[03:43:07] [Server thread/INFO]: Loading properties
+[03:43:07] [Server thread/INFO]: This server is running Paper version 26.2-111-main@f570646 (2026-08-07T16:16:19Z) (Implementing API version 26.2.build.111-stable)
+[03:43:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:43:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:43:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:43:09] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:43:11] [Server thread/INFO]: Default game type: SURVIVAL
+[03:43:11] [Server thread/INFO]: Generating keypair
+[03:43:11] [Server thread/INFO]: Starting Minecraft server on *:25567
+[03:43:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:43:12] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:43:13] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
+[03:43:13] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
+[03:43:15] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:43:15] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:43:16] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
+[03:43:16] [Server thread/INFO]: [AxSmithing] Loading server plugin AxSmithing v1.9
+[03:43:16] [Server thread/INFO]: [TuffXPlus] Loading server plugin TuffXPlus v1.1.1
+[03:43:17] [Server thread/INFO]: [packetevents] Loading packetevents...
+[03:43:20] [Server thread/INFO]: [packetevents] Loaded packetevents v2.13.0 for TuffXPlus
+[03:43:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:43:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:43:20] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[03:43:20] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
+[03:43:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:43:20] [Server thread/INFO]: Preparing level "world"
+[03:43:20] [Server thread/INFO]: Selecting spawn point for level 'minecraft:overworld'...
+[03:43:43] [Server thread/INFO]: Selecting spawn point for level 'minecraft:the_nether'...
+[03:43:46] [Server thread/INFO]: Selecting spawn point for level 'minecraft:the_end'...
+[03:43:47] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[03:43:47] [Server thread/INFO]: Preparing spawn area: 100%
+[03:43:47] [Server thread/INFO]: Prepared spawn area in 26650 ms
+[03:43:47] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[03:43:47] [Server thread/INFO]: Preparing spawn area: 100%
+[03:43:47] [Server thread/INFO]: Prepared spawn area in 4176 ms
+[03:43:47] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[03:43:47] [Server thread/INFO]: Preparing spawn area: 100%
+[03:43:47] [Server thread/INFO]: Prepared spawn area in 774 ms
+[03:43:47] [Server thread/INFO]: Done preparing level "world" (27.353s)
+[03:43:47] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
+[03:43:47] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
+[03:43:47] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
+[03:43:47] [Server thread/INFO]: [AxSmithing] Enabling AxSmithing v1.9
+[03:43:47] [Server thread/INFO]: [TuffXPlus] Enabling TuffXPlus v1.1.1
+[03:43:47] [Server thread/INFO]: [TuffXPlus] Using standard Bukkit-compatible schedulers.
+[03:43:47] [Server thread/INFO]: [TuffXPlus] [Y0] Server Minecraft Version: 26.2
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] Successfully loaded 1326 creative tab mappings.
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] TuffActions has been enabled
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] Enabling features...
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] Swimming enabled.
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] Creative Items enabled.
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] Loading Restrictions config...
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] Restrictions enabled.
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [TuffActions] Finished enabling features.
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Generating ViaBlocks Pre-Defined Palette...
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Palette initialized with 649 entries.
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been enabled successfully and is listening for client handshakes.
+[03:43:48] [Server thread/INFO]: [TuffXPlus] [ViaEntities] ViaEntities enabled with 43 modern entities
+[03:43:48] [Server thread/INFO]: [TuffXPlus] 
+[03:43:48] [Server thread/INFO]: [TuffXPlus] ████████╗██╗   ██╗███████╗ ███████╗ ██╗  ██╗     ██╗
+[03:43:48] [Server thread/INFO]: [TuffXPlus] ╚══██╔══╝██║   ██║██╔════╝ ██╔════╝ ╚██╗██╔╝     ██║
+[03:43:48] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██████╗  ██████╗   ╚███╔╝ ████████████╗
+[03:43:48] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██╔═══╝  ██╔═══╝   ██╔██╗ ╚════██╔════╝
+[03:43:48] [Server thread/INFO]: [TuffXPlus]    ██║   ╚██████╔╝██║      ██║      ██╔╝╚██╗     ██║
+[03:43:48] [Server thread/INFO]: [TuffXPlus]    ╚═╝    ╚═════╝ ╚═╝      ╚═╝      ╚═╝  ╚═╝     ╚═╝
+[03:43:48] [Server thread/INFO]: [TuffXPlus] 
+[03:43:48] [Server thread/INFO]: [TuffXPlus] CREDITS
+[03:43:48] [Server thread/INFO]: [TuffXPlus] 
+[03:43:48] [Server thread/INFO]: [TuffXPlus] Y0 support:
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • Below y0 (client + plugin) programmed by Potato (@justatypicalpotato)
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • llucasandersen - plugin optimizations
+[03:43:48] [Server thread/INFO]: [TuffXPlus] 
+[03:43:48] [Server thread/INFO]: [TuffXPlus] ViaBlocks:
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • ViaBlocks partial plugin and client rewrite by Potato
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • llucasandersen (Complex client models and texture fixes,
+[03:43:48] [Server thread/INFO]: [TuffXPlus] 	  optimizations, PacketEvents migration and async safety fixes)
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • coleis1op, if ts is driving me crazy, im taking credit
+[03:43:48] [Server thread/INFO]: [TuffXPlus] 
+[03:43:48] [Server thread/INFO]: [TuffXPlus] Other:
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • Swimming and creative items programmed by Potato (@justatypicalpotato)
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • shaded build, 1.14+ support (before merge) - llucasandersen
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • Restrictions - UplandJacob
+[03:43:48] [Server thread/INFO]: [TuffXPlus] • Overall plugin merges by Potato
+[03:43:48] [Server thread/INFO]: [spark] Starting background profiler...
+[03:43:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:43:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:43:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:43:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:43:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:43:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:43:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:43:49] [Server thread/INFO]: Running delayed init tasks
+[03:43:49] [Server thread/INFO]: [TuffXPlus] [Y0] Loading mappings from 26.2-mappings.json
+[03:43:49] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:43:49] [Server thread/INFO]: [TuffXPlus] [Y0] Loaded 29671 legacy mappings.
+[03:43:49] [Server thread/INFO]: Done (61.839s)! For help, type "help"
+[03:43:50] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 10 builds behind ***
+[03:43:50] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[03:43:52] [Server thread/INFO]: Seed: [2048005618087379093]
+[03:44:17] [User Authenticator #0/INFO]: UUID of player ironmanLJM is d00c14c9-9ee3-3788-b053-a1de57b43b72
+[03:44:32] [Server thread/INFO]: ironmanLJM joined the game
+[03:44:32] [Server thread/INFO]: ironmanLJM[/[0:0:0:0:0:0:0:1]:40750] logged in with entity id 21 at ([minecraft:overworld]3.5, 105.0, -0.5)
+[03:44:37] [Server thread/INFO]: ironmanLJM issued server command: /gamemode creative
+[03:44:37] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
+[03:45:51] [Server thread/INFO]: Stopping server
+[03:45:51] [Server thread/INFO]: [TuffXPlus] Disabling TuffXPlus v1.1.1
+[03:45:51] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been disabled.
+[03:45:51] [Server thread/INFO]: [AxSmithing] Disabling AxSmithing v1.9
+[03:45:51] [Server thread/ERROR]: Error occurred while disabling AxSmithing v1.9
+java.lang.RuntimeException: NMSHandler has not been initialised! This could be due to incorrect usage, or unsupported NMS version!
+	at AxSmithing-1.9-all.jar//com.artillexstudios.axsmithing.libs.axapi.nms.NMSHandlers.getNmsHandler(NMSHandlers.java:44) ~[?:?]
+	at AxSmithing-1.9-all.jar//com.artillexstudios.axsmithing.libs.axapi.AxPlugin.onDisable(AxPlugin.java:150) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-26.2.build.111-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:236) ~[paper-26.2.jar:26.2-111-f570646]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:160) ~[paper-26.2.jar:26.2-111-f570646]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-26.2.jar:26.2-111-f570646]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:540) ~[paper-api-26.2.build.111-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:606) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1028) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:909) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1384) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-26.2.jar:26.2-111-f570646]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[03:45:51] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.11.0
+[03:45:51] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.11.0
+[03:45:51] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:45:51] [Server thread/INFO]: Saving players
+[03:45:51] [Server thread/INFO]: ironmanLJM lost connection: Server closed
+[03:45:51] [Server thread/INFO]: ironmanLJM left the game
+[03:45:51] [Server thread/INFO]: Saving worlds
+[03:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:45:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[03:45:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[03:45:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
