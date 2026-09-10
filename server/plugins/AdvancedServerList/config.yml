@@ -23,7 +23,7 @@ unknownPlayer:
 #
 # Default: false
 #
-disableCache: false
+disableCache: true
 
 #
 # Should AdvancedServerList check for new versions?

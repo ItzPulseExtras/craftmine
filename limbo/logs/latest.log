@@ -74,3 +74,13 @@
 [10:55:28] [Server thread/WARN]: ironmanLJM moved too quickly! 0.0,-13.578886667846575,0.0
 [10:55:31] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
 [10:55:31] [Server thread/INFO]: ironmanLJM left the game
+[11:45:47] [User Authenticator #1/INFO]: UUID of player ironmanLJM is d00c14c9-9ee3-3788-b053-a1de57b43b72
+[11:45:47] [Server thread/INFO]: ironmanLJM joined the game
+[11:45:47] [Server thread/INFO]: ironmanLJM[/[0:0:0:0:0:0:0:1]:45932] logged in with entity id 2 at ([minecraft:overworld]8.5, -625.1297089654134, 8.5)
+[11:45:50] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
+[11:45:50] [Server thread/INFO]: ironmanLJM left the game
+[11:50:29] [User Authenticator #2/INFO]: UUID of player ironmanLJM is d00c14c9-9ee3-3788-b053-a1de57b43b72
+[11:50:29] [Server thread/INFO]: ironmanLJM joined the game
+[11:50:29] [Server thread/INFO]: ironmanLJM[/[0:0:0:0:0:0:0:1]:52766] logged in with entity id 3 at ([minecraft:overworld]8.5, -704.0694357794727, 8.5)
+[11:50:32] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
+[11:50:32] [Server thread/INFO]: ironmanLJM left the game

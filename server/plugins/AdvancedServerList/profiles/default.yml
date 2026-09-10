@@ -33,10 +33,10 @@ condition: ''
 # Read more: https://asl.andre601.ch/profiles/options/profiles
 #
 profiles:
-  - motd: ['<aqua>Line A', '<gold>Line B']
+  - motd: ['<aqua>Fish Stick SMP', '<gold>Made by ItzPulse']
   - motd:
-      - '<aqua>Line 1'
-      - '<gold>Line 2'
+      - '<aqua>Fish Stick SMP'
+      - '<gold>Cool and awsome'
 
 #
 # Set the "Message of the day" to display.
@@ -82,7 +82,7 @@ motd:
 #   This should only happen for the first ping of a player and subsequent pings should display the favicon, if the
 #   pings are done within the configured cache time (See 'faviconCacheTime' in the config.yml).
 #
-favicon: ''
+favicon: 'server-icon.png'
 
 #
 # Contains options for modifying the player count (Text displaying <online>/<max>).
@@ -119,9 +119,9 @@ playerCount:
   # Read more: https://asl.andre601.ch/profiles/options/playercount/hover
   #
   hover:
-    - '<aqua>Line 1'
-    - '<yellow>Line 2'
-    - '<green>Line 3'
+    - '<aqua>Sub'
+    - '<yellow>To'
+    - '<green>ItzPulse'
   #
   # Set the text that should be displayed instead of the default '<online>/<max>' text.
   #
