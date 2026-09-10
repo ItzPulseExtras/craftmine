@@ -13,3 +13,40 @@
 1786220790243:tuffx reload
 1788925199302:op ironmanLJM
 1788925432766:seed
+1789014056032:op
+1789014059757:op ironmanLJM
+1789015774715:whitelist add ironmanLJM
+1789015780411:whitelist add Vyqzren
+1789015798643:whitelist on
+1789017703921:um
+1789017760652:lp group default permission set essentials.tpa true
+1789017782714:lp group default permission set essentials.tpaccept true
+1789018355197:lp group default permission set essentials.tpacancel true
+1789018487742:lp group default permission set essentials.tpahere true
+1789018493993:lp group default permission set essentials.tpaccept true
+1789018591272:lp editor
+1789019403628:lp
+1789019439044:lp group default permission set essentials.msg true
+1789019448028:lp group default permission set essentials.reply true
+1789019456529:lp group default permission set essentials.home true
+1789019465265:lp group default permission set essentials.sethome true
+1789019824908:op Vyqzren
+1789019884535:deop Vyqzren
+1789019890275:gamemode survival Vyqzren
+1789019892984:clear Vyqzren
+1789021028879:stop
+1789021202278:deop ironmanLJM
+1789021224201:op ironmanLJM
+1789021267086:deop ironmanLJM
+1789021299407:op ironmanLJM
+1789021829276:difficulty normal
+1789021848301:difficulty peaceful
+1789021878329:difficulty normal
+1789022519786:stop
+1789022918607:lp group admin permission set essentials.teleport.timer.bypass true
+1789022943593:whitelist on
+1789023041224:gamerule keep_inventory true
+1789023049830:deop ironmanLJM
+1789023131949:gamemode creative ironmanLJM
+1789023142611:gamemode survival ironmanLJM
+1789023328624:stop
