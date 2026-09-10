@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1788994471284
+  login: 1788994366884
+money: '0'
+last-account-name: Vyqzren
+logoutlocation:
+  world: b667114e-74cd-4fd7-bf4d-9a02c875c6a8
+  world-name: world
+  x: -8.49843039161619
+  y: 109.51251971743034
+  z: -30.404986919802884
+  yaw: 158.401123046875
+  pitch: 5.99997615814209
