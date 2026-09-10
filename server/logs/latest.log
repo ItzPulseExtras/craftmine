@@ -1,252 +1,244 @@
-[06:46:13] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4.1+1-LTS; Microsoft Microsoft-14951822) on Linux 6.8.0-1064-azure (amd64)
-[06:46:13] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-111-main@f570646 (2026-08-07T16:16:19Z) for Minecraft 26.2
-[06:46:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[06:46:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[06:46:14] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[07:04:27] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4.1+1-LTS; Microsoft Microsoft-14951822) on Linux 6.8.0-1064-azure (amd64)
+[07:04:27] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-111-main@f570646 (2026-08-07T16:16:19Z) for Minecraft 26.2
+[07:04:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:04:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[07:04:28] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - LuckTags (1.4)
-[06:46:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[07:04:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - AxSmithing (1.9), Essentials (2.22.1-dev+23-43cb76a), EssentialsSpawn (2.22.1-dev+23-43cb76a), LuckPerms (5.5.81), TuffXPlus (1.1.1), ViaBackwards (5.11.0), ViaVersion (5.11.0), WorldEdit (7.4.5+7590-b8dc4c1), WorldGuard (7.0.18+2392-fa605e6)
-[06:46:18] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[06:46:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[06:46:19] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 866.3ms
-[06:46:22] [ServerMain/INFO]: Loaded 1585 recipes
-[06:46:22] [ServerMain/INFO]: Loaded 1688 advancements
-[06:46:22] [Server thread/INFO]: Starting minecraft server version 26.2
-[06:46:22] [Server thread/INFO]: Loading properties
-[06:46:22] [Server thread/INFO]: This server is running Paper version 26.2-111-main@f570646 (2026-08-07T16:16:19Z) (Implementing API version 26.2.build.111-stable)
-[06:46:22] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[06:46:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:46:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:46:23] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[06:46:23] [Server thread/INFO]: Default game type: SURVIVAL
-[06:46:23] [Server thread/INFO]: Generating keypair
-[06:46:23] [Server thread/INFO]: Starting Minecraft server on *:25567
-[06:46:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:46:24] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[06:46:24] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
-[06:46:24] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
-[06:46:26] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[06:46:26] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[06:46:26] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.81
-[06:46:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[06:46:27] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.5+7590-b8dc4c1
-[06:46:27] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@b0dc165]
-[06:46:27] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
-[06:46:27] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.1-dev+23-43cb76a
-[06:46:27] [Server thread/INFO]: [AxSmithing] Loading server plugin AxSmithing v1.9
-[06:46:27] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.18+2392-fa605e6
-[06:46:27] [Server thread/INFO]: [LuckTags] Loading server plugin LuckTags v1.4
-[06:46:27] [Server thread/INFO]: [TuffXPlus] Loading server plugin TuffXPlus v1.1.1
-[06:46:28] [Server thread/INFO]: [packetevents] Loading packetevents...
-[06:46:30] [Server thread/INFO]: [packetevents] Loaded packetevents v2.13.0 for TuffXPlus
-[06:46:30] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.22.1-dev+23-43cb76a
-[06:46:30] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.81
-[06:46:30] [Server thread/INFO]:         __    
-[06:46:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.81
-[06:46:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[06:46:30] [Server thread/INFO]: 
-[06:46:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[06:46:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[06:46:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[06:46:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1096ms)
-[06:46:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.5+7590-b8dc4c1
-[06:46:31] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[06:46:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[06:46:32] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_2.PaperweightAdapter as the Bukkit adapter
-[06:46:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:46:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:46:32] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[06:46:32] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
-[06:46:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:46:32] [Server thread/INFO]: Preparing level "world"
-[06:46:33] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[06:46:33] [Server thread/INFO]: Preparing spawn area: 100%
-[06:46:33] [Server thread/INFO]: Prepared spawn area in 1 ms
-[06:46:33] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[06:46:33] [Server thread/INFO]: Prepared spawn area in 0 ms
-[06:46:33] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[06:46:33] [Server thread/INFO]: Preparing spawn area: 100%
-[06:46:33] [Server thread/INFO]: Prepared spawn area in 1 ms
-[06:46:33] [Server thread/INFO]: Done preparing level "world" (0.952s)
-[06:46:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
-[06:46:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
-[06:46:33] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
-[06:46:33] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.1-dev+23-43cb76a
-[06:46:34] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[06:46:34] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Modern (Registry-based) PatternType Provider as the provider for PatternTypeProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[06:46:34] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[06:46:34] [Server thread/INFO]: [Essentials] Loaded 46861 items from items.json.
-[06:46:35] [Server thread/INFO]: [Essentials] Using locale en
-[06:46:35] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[06:46:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[06:46:35] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[06:46:35] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[06:46:35] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[06:46:35] [Server thread/INFO]: [AxSmithing] Enabling AxSmithing v1.9
-[06:46:35] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.18+2392-fa605e6
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[06:46:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[06:46:36] [Server thread/INFO]: [WorldGuard] Loading region data...
-[06:46:36] [Server thread/INFO]: [LuckTags] Enabling LuckTags v1.4
-[06:46:36] [Server thread/INFO]: [TuffXPlus] Enabling TuffXPlus v1.1.1
-[06:46:36] [Server thread/INFO]: [TuffXPlus] Using standard Bukkit-compatible schedulers.
-[06:46:36] [Server thread/INFO]: [TuffXPlus] [Y0] Server Minecraft Version: 26.2
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] Successfully loaded 1326 creative tab mappings.
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] TuffActions has been enabled
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] Enabling features...
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] Swimming enabled.
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] Creative Items enabled.
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] Loading Restrictions config...
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] Restrictions enabled.
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [TuffActions] Finished enabling features.
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Generating ViaBlocks Pre-Defined Palette...
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Palette initialized with 649 entries.
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been enabled successfully and is listening for client handshakes.
-[06:46:37] [Server thread/INFO]: [TuffXPlus] [ViaEntities] ViaEntities enabled with 43 modern entities
-[06:46:37] [Server thread/INFO]: [TuffXPlus] 
-[06:46:37] [Server thread/INFO]: [TuffXPlus] ████████╗██╗   ██╗███████╗ ███████╗ ██╗  ██╗     ██╗
-[06:46:37] [Server thread/INFO]: [TuffXPlus] ╚══██╔══╝██║   ██║██╔════╝ ██╔════╝ ╚██╗██╔╝     ██║
-[06:46:37] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██████╗  ██████╗   ╚███╔╝ ████████████╗
-[06:46:37] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██╔═══╝  ██╔═══╝   ██╔██╗ ╚════██╔════╝
-[06:46:37] [Server thread/INFO]: [TuffXPlus]    ██║   ╚██████╔╝██║      ██║      ██╔╝╚██╗     ██║
-[06:46:37] [Server thread/INFO]: [TuffXPlus]    ╚═╝    ╚═════╝ ╚═╝      ╚═╝      ╚═╝  ╚═╝     ╚═╝
-[06:46:37] [Server thread/INFO]: [TuffXPlus] 
-[06:46:37] [Server thread/INFO]: [TuffXPlus] CREDITS
-[06:46:37] [Server thread/INFO]: [TuffXPlus] 
-[06:46:37] [Server thread/INFO]: [TuffXPlus] Y0 support:
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • Below y0 (client + plugin) programmed by Potato (@justatypicalpotato)
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • llucasandersen - plugin optimizations
-[06:46:37] [Server thread/INFO]: [TuffXPlus] 
-[06:46:37] [Server thread/INFO]: [TuffXPlus] ViaBlocks:
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • ViaBlocks partial plugin and client rewrite by Potato
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • llucasandersen (Complex client models and texture fixes,
-[06:46:37] [Server thread/INFO]: [TuffXPlus] 	  optimizations, PacketEvents migration and async safety fixes)
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • coleis1op, if ts is driving me crazy, im taking credit
-[06:46:37] [Server thread/INFO]: [TuffXPlus] 
-[06:46:37] [Server thread/INFO]: [TuffXPlus] Other:
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • Swimming and creative items programmed by Potato (@justatypicalpotato)
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • shaded build, 1.14+ support (before merge) - llucasandersen
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • Restrictions - UplandJacob
-[06:46:37] [Server thread/INFO]: [TuffXPlus] • Overall plugin merges by Potato
-[06:46:37] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.22.1-dev+23-43cb76a
-[06:46:37] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[06:46:37] [Server thread/INFO]: [spark] Starting background profiler...
-[06:46:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:46:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:46:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:46:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:46:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:46:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:46:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06:46:38] [Server thread/INFO]: Running delayed init tasks
-[06:46:38] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[06:46:38] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[06:46:38] [Server thread/INFO]: [TuffXPlus] [Y0] Loading mappings from 26.2-mappings.json
-[06:46:38] [Server thread/INFO]: [TuffXPlus] [Y0] Loaded 29671 legacy mappings.
-[06:46:38] [Server thread/INFO]: Done (26.963s)! For help, type "help"
-[06:46:39] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 12 builds behind ***
-[06:46:39] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
-[06:48:38] [luckperms-command-executor/INFO]: [LP] A group named admin could not be found.
-[06:48:57] [User Authenticator #0/INFO]: UUID of player ironmanLJM is d00c14c9-9ee3-3788-b053-a1de57b43b72
-[06:48:57] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, WorldGuard]
-[06:48:59] [Server thread/INFO]: ironmanLJM joined the game
-[06:48:59] [Server thread/INFO]: ironmanLJM[/[0:0:0:0:0:0:0:1]:45438] logged in with entity id 1 at ([minecraft:overworld]-4.4675907599980365, 111.10910460855862, -8.897902134168868)
-[06:49:03] [Server thread/INFO]: Whitelist is already turned on
-[06:49:07] [Server thread/INFO]: ironmanLJM issued server command: /gamemode creative
-[06:49:15] [Server thread/INFO]: ironmanLJM issued server command: /home
-[06:50:32] [Server thread/INFO]: ironmanLJM issued server command: /gamemode survival
-[06:50:41] [Server thread/INFO]: Gamerule keep_inventory is now set to: true
-[06:50:49] [Server thread/INFO]: Made ironmanLJM no longer a server operator
-[06:52:11] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gamemode creative ironmanLJM
-[06:52:11] [Server thread/INFO]: Set game mode creative for ironmanLJM.
-[06:52:22] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gamemode survival ironmanLJM
-[06:52:22] [Server thread/INFO]: Set game mode survival for ironmanLJM.
-[06:55:25] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
-[06:55:25] [Server thread/INFO]: ironmanLJM left the game
-[06:55:28] [Server thread/INFO]: Stopping the server
-[06:55:28] [Server thread/INFO]: Stopping server
-[06:55:28] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.22.1-dev+23-43cb76a
-[06:55:28] [Server thread/INFO]: [TuffXPlus] Disabling TuffXPlus v1.1.1
-[06:55:28] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been disabled.
-[06:55:28] [Server thread/INFO]: [LuckTags] Disabling LuckTags v1.4
-[06:55:28] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.18+2392-fa605e6
-[06:55:28] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[06:55:28] [Server thread/INFO]: [AxSmithing] Disabling AxSmithing v1.9
-[06:55:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.1-dev+23-43cb76a
-[06:55:28] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.11.0
-[06:55:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.5+7590-b8dc4c1
-[06:55:28] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[06:55:28] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.81
-[06:55:28] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[06:55:28] [Server thread/INFO]: [LuckPerms] Closing storage...
-[06:55:28] [Server thread/INFO]: [LuckPerms] Goodbye!
-[06:55:28] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.11.0
-[06:55:28] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[06:55:28] [Server thread/INFO]: Saving players
-[06:55:28] [Server thread/INFO]: Saving worlds
-[06:55:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:55:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
-[06:55:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
-[06:55:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Saved 825 block chunks, 371 entity chunks, 3 poi chunks in world 'minecraft:overworld' in 1.18s
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
-[06:55:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
-[06:55:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
-[06:55:30] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
-[06:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:55:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06:55:30] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[06:55:30] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[06:55:30] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[06:55:30] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[07:04:32] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[07:04:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[07:04:33] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 864.8ms
+[07:04:35] [ServerMain/INFO]: Loaded 1585 recipes
+[07:04:35] [ServerMain/INFO]: Loaded 1688 advancements
+[07:04:35] [Server thread/INFO]: Starting minecraft server version 26.2
+[07:04:35] [Server thread/INFO]: Loading properties
+[07:04:36] [Server thread/INFO]: This server is running Paper version 26.2-111-main@f570646 (2026-08-07T16:16:19Z) (Implementing API version 26.2.build.111-stable)
+[07:04:36] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:04:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:04:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:04:36] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[07:04:36] [Server thread/INFO]: Default game type: SURVIVAL
+[07:04:36] [Server thread/INFO]: Generating keypair
+[07:04:36] [Server thread/INFO]: Starting Minecraft server on *:25567
+[07:04:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:04:36] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:04:37] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
+[07:04:37] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
+[07:04:38] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[07:04:38] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[07:04:38] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.81
+[07:04:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[07:04:39] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.5+7590-b8dc4c1
+[07:04:39] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@69156270]
+[07:04:39] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
+[07:04:39] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.1-dev+23-43cb76a
+[07:04:39] [Server thread/INFO]: [AxSmithing] Loading server plugin AxSmithing v1.9
+[07:04:39] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.18+2392-fa605e6
+[07:04:39] [Server thread/INFO]: [LuckTags] Loading server plugin LuckTags v1.4
+[07:04:39] [Server thread/INFO]: [TuffXPlus] Loading server plugin TuffXPlus v1.1.1
+[07:04:40] [Server thread/INFO]: [packetevents] Loading packetevents...
+[07:04:41] [Server thread/INFO]: [packetevents] Loaded packetevents v2.13.0 for TuffXPlus
+[07:04:41] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.22.1-dev+23-43cb76a
+[07:04:41] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.81
+[07:04:42] [Server thread/INFO]:         __    
+[07:04:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.81
+[07:04:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[07:04:42] [Server thread/INFO]: 
+[07:04:42] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[07:04:42] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[07:04:42] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[07:04:42] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1155ms)
+[07:04:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.5+7590-b8dc4c1
+[07:04:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[07:04:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[07:04:43] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_2.PaperweightAdapter as the Bukkit adapter
+[07:04:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:04:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:04:44] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[07:04:44] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
+[07:04:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:04:44] [Server thread/INFO]: Preparing level "world"
+[07:04:44] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[07:04:44] [Server thread/INFO]: Preparing spawn area: 100%
+[07:04:44] [Server thread/INFO]: Prepared spawn area in 1 ms
+[07:04:44] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[07:04:44] [Server thread/INFO]: Prepared spawn area in 1 ms
+[07:04:44] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[07:04:44] [Server thread/INFO]: Prepared spawn area in 1 ms
+[07:04:44] [Server thread/INFO]: Done preparing level "world" (0.862s)
+[07:04:44] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
+[07:04:44] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
+[07:04:44] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
+[07:04:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.1-dev+23-43cb76a
+[07:04:45] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[07:04:45] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Modern (Registry-based) PatternType Provider as the provider for PatternTypeProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[07:04:45] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[07:04:45] [Server thread/INFO]: [Essentials] Loaded 46861 items from items.json.
+[07:04:45] [Server thread/INFO]: [Essentials] Using locale en
+[07:04:45] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[07:04:45] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[07:04:45] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[07:04:45] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[07:04:45] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[07:04:45] [Server thread/INFO]: [AxSmithing] Enabling AxSmithing v1.9
+[07:04:45] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.18+2392-fa605e6
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[07:04:46] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[07:04:46] [Server thread/INFO]: [WorldGuard] Loading region data...
+[07:04:46] [Server thread/INFO]: [LuckTags] Enabling LuckTags v1.4
+[07:04:46] [Server thread/INFO]: [TuffXPlus] Enabling TuffXPlus v1.1.1
+[07:04:46] [Server thread/INFO]: [TuffXPlus] Using standard Bukkit-compatible schedulers.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [Y0] Server Minecraft Version: 26.2
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] Successfully loaded 1326 creative tab mappings.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] TuffActions has been enabled
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] Enabling features...
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] Swimming enabled.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] Creative Items enabled.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] Loading Restrictions config...
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] Restrictions enabled.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [TuffActions] Finished enabling features.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Generating ViaBlocks Pre-Defined Palette...
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Palette initialized with 649 entries.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been enabled successfully and is listening for client handshakes.
+[07:04:46] [Server thread/INFO]: [TuffXPlus] [ViaEntities] ViaEntities enabled with 43 modern entities
+[07:04:46] [Server thread/INFO]: [TuffXPlus] 
+[07:04:46] [Server thread/INFO]: [TuffXPlus] ████████╗██╗   ██╗███████╗ ███████╗ ██╗  ██╗     ██╗
+[07:04:46] [Server thread/INFO]: [TuffXPlus] ╚══██╔══╝██║   ██║██╔════╝ ██╔════╝ ╚██╗██╔╝     ██║
+[07:04:46] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██████╗  ██████╗   ╚███╔╝ ████████████╗
+[07:04:46] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██╔═══╝  ██╔═══╝   ██╔██╗ ╚════██╔════╝
+[07:04:46] [Server thread/INFO]: [TuffXPlus]    ██║   ╚██████╔╝██║      ██║      ██╔╝╚██╗     ██║
+[07:04:46] [Server thread/INFO]: [TuffXPlus]    ╚═╝    ╚═════╝ ╚═╝      ╚═╝      ╚═╝  ╚═╝     ╚═╝
+[07:04:46] [Server thread/INFO]: [TuffXPlus] 
+[07:04:46] [Server thread/INFO]: [TuffXPlus] CREDITS
+[07:04:46] [Server thread/INFO]: [TuffXPlus] 
+[07:04:46] [Server thread/INFO]: [TuffXPlus] Y0 support:
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • Below y0 (client + plugin) programmed by Potato (@justatypicalpotato)
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • llucasandersen - plugin optimizations
+[07:04:46] [Server thread/INFO]: [TuffXPlus] 
+[07:04:46] [Server thread/INFO]: [TuffXPlus] ViaBlocks:
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • ViaBlocks partial plugin and client rewrite by Potato
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • llucasandersen (Complex client models and texture fixes,
+[07:04:46] [Server thread/INFO]: [TuffXPlus] 	  optimizations, PacketEvents migration and async safety fixes)
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • coleis1op, if ts is driving me crazy, im taking credit
+[07:04:46] [Server thread/INFO]: [TuffXPlus] 
+[07:04:46] [Server thread/INFO]: [TuffXPlus] Other:
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • Swimming and creative items programmed by Potato (@justatypicalpotato)
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • shaded build, 1.14+ support (before merge) - llucasandersen
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • Restrictions - UplandJacob
+[07:04:46] [Server thread/INFO]: [TuffXPlus] • Overall plugin merges by Potato
+[07:04:46] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.22.1-dev+23-43cb76a
+[07:04:46] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[07:04:47] [Server thread/INFO]: [spark] Starting background profiler...
+[07:04:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:04:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:04:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:04:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:04:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:04:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:04:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:04:47] [Server thread/ERROR]: Couldn't load server icon
+java.io.IOException: Bad PNG Signature: FFD8FFE000104A46
+	at net.minecraft.util.PngInfo.fromStream(PngInfo.java:21) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.util.PngInfo.fromBytes(PngInfo.java:40) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.lambda$loadStatusIcon$3(MinecraftServer.java:1544) ~[paper-26.2.jar:26.2-111-f570646]
+	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at net.minecraft.server.MinecraftServer.loadStatusIcon(MinecraftServer.java:1541) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1272) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-26.2.jar:26.2-111-f570646]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[07:04:47] [Server thread/INFO]: Running delayed init tasks
+[07:04:47] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[07:04:47] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[07:04:47] [Server thread/INFO]: [TuffXPlus] [Y0] Loading mappings from 26.2-mappings.json
+[07:04:47] [Server thread/INFO]: [TuffXPlus] [Y0] Loaded 29671 legacy mappings.
+[07:04:47] [Server thread/INFO]: Done (21.293s)! For help, type "help"
+[07:04:48] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 12 builds behind ***
+[07:04:48] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[07:16:48] [Server thread/INFO]: Stopping the server
+[07:16:48] [Server thread/INFO]: Stopping server
+[07:16:48] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.22.1-dev+23-43cb76a
+[07:16:48] [Server thread/INFO]: [TuffXPlus] Disabling TuffXPlus v1.1.1
+[07:16:48] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been disabled.
+[07:16:48] [Server thread/INFO]: [LuckTags] Disabling LuckTags v1.4
+[07:16:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.18+2392-fa605e6
+[07:16:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[07:16:48] [Server thread/INFO]: [AxSmithing] Disabling AxSmithing v1.9
+[07:16:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.1-dev+23-43cb76a
+[07:16:48] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.11.0
+[07:16:48] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.5+7590-b8dc4c1
+[07:16:48] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[07:16:48] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.81
+[07:16:48] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[07:16:48] [Server thread/INFO]: [LuckPerms] Closing storage...
+[07:16:48] [Server thread/INFO]: [LuckPerms] Goodbye!
+[07:16:48] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.11.0
+[07:16:48] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[07:16:48] [Server thread/INFO]: Saving players
+[07:16:48] [Server thread/INFO]: Saving worlds
+[07:16:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.00s
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[07:16:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[07:16:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[07:16:48] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[07:16:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:16:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:16:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:16:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:16:48] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[07:16:48] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[07:16:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[07:16:48] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
