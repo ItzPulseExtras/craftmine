@@ -133,14 +133,14 @@ time:
 unsupported-settings:
   allow-headless-pistons: false
   allow-permanent-block-break-exploits: false
-  allow-piston-duplication: false
+  allow-piston-duplication: true
   allow-unsafe-end-portal-teleportation: false
   oversized-item-component-sanitizer:
     dont-sanitize: []
   perform-username-validation: true
   skip-tripwire-hook-placement-validation: false
   skip-vanilla-damage-tick-when-shield-blocked: false
-  update-equipment-on-player-actions: true
+  update-equipment-on-player-actions: false
 update-checker:
   enabled: true
 watchdog:

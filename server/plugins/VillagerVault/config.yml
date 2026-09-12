@@ -1,0 +1,250 @@
+# ============================================================
+#  VillagerVault Configuration
+#  https://github.com/Anonventions/VillagerVault
+# ============================================================
+
+# ---- Bedrock / Geyser Compatibility ----
+# Automatic support for Bedrock Edition players via Geyser/Floodgate
+bedrock:
+  # Enable Bedrock compatibility features (auto-detected if Floodgate is installed)
+  enabled: true
+  # Bedrock Edition has no reliable sneak + interact. Instead, Bedrock players
+  # must HOLD a specific item and right-click a villager to pick it up.
+  # Set the item material below. Use "NONE" to let Bedrock players pick up
+  # villagers with any item (no sneak required, like the old behavior).
+  pickup-item: STICK
+
+# ---- Infinite Stock ----
+infinite-stock:
+  # Enable or disable infinite villager stock
+  enabled: true
+  # Worlds where infinite stock is disabled
+  excluded-worlds: []
+  # Also apply to wandering traders?
+  include-wandering-traders: true
+
+# ---- Villager Pickup ----
+villager-pickup:
+  # Enable or disable villager pickup & placement
+  enabled: true
+  require-sneak: true
+  # Cooldown in seconds between pickups (0 = no cooldown)
+  cooldown-seconds: 3
+  # Also allow picking up wandering traders?
+  allow-wandering-traders: false
+  # Worlds where villager pickup is disabled
+  excluded-worlds: []
+  # Maximum number of carried villager items a player can hold (0 = unlimited)
+  max-carry-limit: 5
+  # The item used to represent a carried villager
+  pickup-item:
+    # Material type (VILLAGER_SPAWN_EGG recommended)
+    material: VILLAGER_SPAWN_EGG
+    # Custom model data for resource pack 3D models (0 = disabled / no custom model data)
+    # Set this to match your resource pack's custom model data value for a 3D villager model
+    custom-model-data: 0
+    # Display name (supports MiniMessage format)
+    name: "<gradient:#55FF55:#AAFFAA><bold>Carried Villager</bold></gradient>"
+    # Lore lines (supports MiniMessage format, {profession} and {level} placeholders)
+    lore:
+      - ""
+      - "<gray>Profession: <white>{profession}</white></gray>"
+      - "<gray>Level: <white>{level}</white></gray>"
+      - ""
+      - "<yellow>Right-click to place this villager!</yellow>"
+
+# ---- Villager Protection ----
+# Prevent villagers from taking damage
+villager-protection:
+  # Enable or disable villager protection
+  enabled: true
+  # Which damage causes to block. Remove entries to allow specific damage types.
+  # Full list: PLAYER, MOB, LIGHTNING, LAVA, FIRE, FIRE_TICK, EXPLOSION,
+  # SUFFOCATION, DROWNING, FALL, PROJECTILE, CACTUS, WITHER, STARVATION, POISON, MAGIC, ALL
+  blocked-causes:
+    - PLAYER
+    - MOB
+    - LIGHTNING
+    - LAVA
+    - FIRE
+    - FIRE_TICK
+    - EXPLOSION
+    - SUFFOCATION
+    - DROWNING
+    - FALL
+    - PROJECTILE
+    - CACTUS
+    - WITHER
+  # Worlds where villager protection is disabled
+  excluded-worlds: []
+
+# ---- Villager Leashing ----
+# Allow attaching leads to villagers (vanilla doesn't permit this)
+villager-leashing:
+  # Enable or disable villager leashing
+  enabled: true
+
+# ---- Anti-Zombie Conversion ----
+# Prevent villagers from becoming zombie villagers
+anti-zombie-conversion:
+  # Enable or disable anti-zombie conversion
+  enabled: true
+  # Worlds where anti-zombie conversion is disabled
+  excluded-worlds: []
+
+# ---- Trade Discounts ----
+# Apply percentage discounts to trade prices based on permissions
+# Players need villagervault.discount.<tier> permission
+trade-discount:
+  # Enable or disable trade discounts
+  enabled: false
+  # Available discount tiers (permission node: villagervault.discount.<value>)
+  # Highest matching tier is used. Values are percentages.
+  tiers:
+    - 10
+    - 25
+    - 50
+    - 75
+
+# ---- Villager Nametags ----
+# Display formatted nametags above villagers
+villager-nametags:
+  # Enable or disable villager nametags
+  enabled: false
+  # Format placeholders: {profession}, {level}, {health}, {custom_name}
+  format: "<green>{profession}</green> <gray>Lv.{level}</gray>"
+  # How often to update nametags (in ticks, 20 ticks = 1 second)
+  update-interval-ticks: 200
+  # Also apply to wandering traders?
+  include-wandering-traders: false
+
+# ---- No Wandering / Freeze ----
+# Prevent villagers from pathfinding (use /vv freeze on individual villagers)
+no-wandering:
+  # Enable or disable no wandering
+  enabled: true
+  # If true, ALL villagers are frozen by default. If false, only /vv freeze'd ones.
+  freeze-all-by-default: false
+
+# ---- Villager Info ----
+# Right-click a villager with a specific item to view info
+villager-info:
+  # Enable or disable villager info
+  enabled: true
+  # Item to hold when right-clicking (non-sneaking) to see info
+  info-item: CLOCK
+
+# ---- Sounds & Particles ----
+sounds-particles:
+  # Enable or disable sounds and particles
+  enabled: true
+  pickup:
+    # Sound played when picking up a villager
+    sound: ENTITY_ITEM_PICKUP
+    # Volume of the pickup sound
+    sound-volume: 1.0
+    # Pitch of the pickup sound
+    sound-pitch: 1.2
+    # Particle effect played when picking up a villager
+    particle: PORTAL
+    # Number of particles to spawn
+    particle-count: 30
+  place:
+    # Sound played when placing a villager
+    sound: ENTITY_VILLAGER_AMBIENT
+    # Volume of the place sound
+    sound-volume: 1.0
+    # Pitch of the place sound
+    sound-pitch: 1.0
+    # Particle effect played when placing a villager
+    particle: HAPPY_VILLAGER
+    # Number of particles to spawn
+    particle-count: 15
+  trade:
+    # Sound played when a trade is made
+    sound: ENTITY_EXPERIENCE_ORB_PICKUP
+    # Volume of the trade sound
+    sound-volume: 0.5
+    # Pitch of the trade sound
+    sound-pitch: 1.5
+
+# ---- Statistics Tracking ----
+statistics:
+  # Enable or disable statistics tracking
+  enabled: true
+  # Auto-save interval in minutes
+  save-interval-minutes: 5
+
+# ---- Villager Death Backup ----
+# Log dead villager data for admin restoration
+villager-backup:
+  # Enable or disable villager death backup
+  enabled: true
+  # Maximum number of dead villagers to keep in memory
+  max-backups: 30
+
+# ---- Villager Glow ----
+# Temporarily highlight villagers with glow effect
+villager-glow:
+  # Enable or disable villager glow
+  enabled: true
+  # Duration of glow in seconds
+  duration-seconds: 15
+  # Glow color (WHITE, YELLOW, GREEN, AQUA, RED, GOLD, etc.)
+  color: GREEN
+
+# ---- Messages ----
+# All messages support MiniMessage format
+messages:
+  # Prefix for all plugin messages
+  prefix: "<gradient:#55FF55:#AAFFAA><bold>VillagerVault</bold></gradient> <dark_gray>»</dark_gray> "
+  # Message sent when a villager is successfully picked up
+  pickup-success: "<green>You picked up the villager!"
+  # Message sent when a villager is successfully placed
+  place-success: "<green>You placed the villager!"
+  # Message sent when a player lacks permission to perform an action
+  no-permission: "<red>You don't have permission to do this."
+  # Message sent when a player tries to pick up a villager on cooldown
+  on-cooldown: "<red>Please wait <white>{seconds}</white> seconds before picking up another villager."
+  # Message sent when a feature is disabled in the player's current world
+  world-disabled: "<red>This feature is disabled in this world."
+  # Message sent when the configuration is reloaded successfully
+  reload-success: "<green>Configuration reloaded successfully!"
+  # Message sent when a player must sneak to pick up a villager
+  must-sneak: "<red>You must be sneaking to pick up a villager!"
+  # Message sent when a player tries to pick up a wandering trader but it's disabled
+  wandering-trader-disabled: "<red>You cannot pick up wandering traders."
+  # Message sent when a player exceeds the maximum carry limit for villagers
+  max-carry-reached: "<red>You can only carry <white>{max}</white> villagers at a time!"
+  # Message sent when a villager is protected from damage
+  villager-protected: "<gray>This villager is protected from damage."
+  # Message sent when a villager is frozen in place
+  villager-frozen: "<green>Villager has been frozen in place!"
+  # Message sent when a villager is unfrozen and can move again
+  villager-unfrozen: "<green>Villager can now move freely!"
+  # Message sent when villagers are healed
+  villager-healed: "<green>Healed <white>{count}</white> villager(s) within <white>{radius}</white> blocks!"
+  # Message sent when villagers are teleported to the player's location
+  villager-teleported: "<green>Teleported <white>{count}</white> villager(s) to your location!"
+  # Message sent when villagers are highlighted with the glow effect
+  villager-glow-activated: "<green>Highlighting <white>{count}</white> villager(s) for <white>{seconds}</white> seconds!"
+  # Message sent when no villagers are found nearby
+  no-villagers-found: "<red>No villagers found nearby."
+  # Message sent when no villager is targeted by the player
+  no-villager-targeted: "<red>No villager found. Look at a villager within 5 blocks."
+  # Message sent when a villager backup is restored
+  backup-restored: "<green>Villager restored at its death location!"
+  # Message sent when there are no villager backups available
+  backup-empty: "<red>No villager backups available."
+  # Message sent when an invalid backup index is used
+  backup-invalid-index: "<red>Invalid backup index. Use <white>/vv restore list</white> to see available backups."
+  # Message sent when a trade discount is applied
+  discount-applied: "<green>You received a <white>{percent}%</white> trade discount!"
+  # Header for the statistics tracking section
+  stats-header: "<gray>─── <gradient:#55FF55:#AAFFAA>Your VillagerVault Stats</gradient> ───"
+  # Displayed when no stats are available
+  stats-no-data: "<gray>No statistics data available."
+  # Format for displaying individual stats
+  stats-format: "<gray>{label}: <white>{value}</white>"
+  # Help command header
+  help-header: "<gray>─── <gradient:#55FF55:#AAFFAA>VillagerVault Commands</gradient> ───"
