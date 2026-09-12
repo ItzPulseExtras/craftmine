@@ -1,0 +1,24 @@
+settings:
+  mace-crafted: true # Changes to true when the Mace is crafted.
+  announce-mace-messages: true # If true, broadcasts when the Mace is crafted or lost.
+  allow-locate-for-all: false # If true, allows any player to use the '/onemace locate' subcommand.
+  colored-name: false # If true, the player that has the Mace will have a colored name.
+  mace-name-color: RED # The color of the name, use Chat Colors.
+  optional-allowed-containers: # Containers that the Mace is allowed to be placed into.
+    - ENDER_CHEST
+    - ANVIL
+    - ENCHANTING
+
+# Stores whether an offline player logged out with the Mace.
+# If set to true, the Mace is in their inventory or Ender Chest when they logged out.
+# Used to prevent crafting if the Mace still exists in an offline player’s possession.
+# This is automatically updated when a player logs out or the server shuts down.
+offline_inventory:
+  d00c14c9-9ee3-3788-b053-a1de57b43b72: true
+  f7b02e42-9974-3b87-83a1-7ff87122c29a: false
+  41942e52-3953-35f5-95f8-cfdda10d1924: false
+
+# Customizable messages
+messages:
+  crafted: '&b[OneMace] &eThe Mace has been crafted!'
+  lost: '&b[OneMace] &eThe Mace has been lost!'
