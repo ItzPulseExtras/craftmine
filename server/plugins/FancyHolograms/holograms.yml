@@ -23,10 +23,7 @@ holograms:
     billboard: horizontal
     text:
     - HI welcome to Fish Stick SMP
-    - 'Rules: NO stealing, Greafing'
-    - NO running to spawn when in a duel
-    - have fun :)
-    - ALSO NO NAKED KILLING AND NO LOOPHOLING
+    - Rules are in google doc, have fun :D
     text_shadow: false
     see_through: false
     text_alignment: center

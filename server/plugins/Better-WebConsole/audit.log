@@ -132,3 +132,34 @@
 [2026-11-10 02:05:37] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
 [2026-11-10 02:24:35] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: say BYE
 [2026-11-10 02:32:08] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-12 21:55:05] [FAIL] admin@[0:0:0:0:0:0:0:1] :: bad credentials
+[2026-11-12 21:55:36] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-12 23:53:32] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-13 02:41:17] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-13 02:41:22] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-13 06:18:58] [FAIL] admin@[0:0:0:0:0:0:0:1] :: bad credentials
+[2026-11-13 06:19:06] [FAIL] admin@[0:0:0:0:0:0:0:1] :: bad credentials
+[2026-11-13 06:19:12] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-13 06:27:55] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-13 08:33:15] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-14 05:42:47] [FAIL] admin@[0:0:0:0:0:0:0:1] :: bad credentials
+[2026-11-14 05:43:00] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-14 05:43:21] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 06:20:43] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: hologram edit spawn removeline 5
+[2026-11-14 06:20:51] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: hologram edit spawn removeline 4
+[2026-11-14 06:20:56] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: hologram edit spawn removeline 3
+[2026-11-14 06:21:03] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: hologram edit spawn removeline 2
+[2026-11-14 06:21:05] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: say wait
+[2026-11-14 06:21:20] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: hologram edit spawn addline Rules are in google doc, have fun :D
+[2026-11-14 06:29:30] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 07:03:54] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 07:05:17] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 07:09:48] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 07:14:32] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 07:37:05] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-14 07:44:25] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM tntminecart 1
+[2026-11-14 07:58:06] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: tp ironmanLJM 114 33 994
+[2026-11-14 08:01:47] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM lavabucket 1
+[2026-11-14 08:02:44] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM soulsoil 64
+[2026-11-14 08:06:00] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 08:11:23] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM soulsoil 64
