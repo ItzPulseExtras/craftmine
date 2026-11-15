@@ -163,3 +163,29 @@
 [2026-11-14 08:02:44] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM soulsoil 64
 [2026-11-14 08:06:00] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
 [2026-11-14 08:11:23] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM soulsoil 64
+[2026-11-14 21:09:30] [FAIL] admin@[0:0:0:0:0:0:0:1] :: bad credentials
+[2026-11-14 21:09:44] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-14 21:16:20] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: seed
+[2026-11-14 21:18:18] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 22:08:05] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 22:08:22] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 23:18:52] [LOGIN] admin@[0:0:0:0:0:0:0:1] :: authenticated
+[2026-11-14 23:19:22] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-14 23:45:06] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give iron
+[2026-11-14 23:45:20] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM windcharge 64
+[2026-11-14 23:45:22] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM windcharge 64
+[2026-11-14 23:49:35] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-15 00:00:14] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-15 00:02:09] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: deop Hyrisks
+[2026-11-15 00:02:15] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: deop Hyriskalt
+[2026-11-15 00:02:25] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: ban Hyrisks
+[2026-11-15 00:02:35] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: ban Hyrisalt
+[2026-11-15 00:02:46] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: ban ThisNotAlex
+[2026-11-15 00:03:38] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-15 00:11:48] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give iron
+[2026-11-15 00:11:58] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM golden_apple 19
+[2026-11-15 00:24:08] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-15 00:40:54] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: give ironmanLJM chest 4
+[2026-11-15 00:50:58] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: op ironmanLJM
+[2026-11-15 00:52:52] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: xp give  ironmanLJM 30;
+[2026-11-15 00:52:58] [COMMAND] admin@[0:0:0:0:0:0:0:1] :: xp give  ironmanLJM 30l

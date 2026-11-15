@@ -1,25 +1,7 @@
 [
   {
-    "uuid": "5f28247f-2b30-32f1-9cb9-f2d1adf81e83",
-    "name": "Hyriskalt",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "31937d5e-fa36-3d80-8d9d-5c9d1e8afb25",
-    "name": "Hyrisks",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "a3ae9cb7-fa9f-3574-b047-ddba5fdb56bc",
     "name": "ItzPulse",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "d00c14c9-9ee3-3788-b053-a1de57b43b72",
-    "name": "ironmanLJM",
     "level": 4,
     "bypassesPlayerLimit": false
   },

@@ -2,8 +2,8 @@ owner:
   uuid: d00c14c9-9ee3-3788-b053-a1de57b43b72
   name: ironmanLJM
 location:
-  world: world_nether
-  x: 102.59146989117362
-  y: 93.0
-  z: 951.724284766548
+  world: world
+  x: -9934.012448797972
+  y: 63.0
+  z: -310.26316240746206
   state: PLAYER
