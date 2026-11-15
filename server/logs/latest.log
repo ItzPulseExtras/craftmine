@@ -1,511 +1,203 @@
-[00:00:14] [qtp1310498659-117/INFO]: [Better-WebConsole] [BWC] Command by 'admin': op ironmanLJM
-[00:00:14] [Server thread/INFO]: Made ironmanLJM a server operator
-[00:00:18] [Async Chat Thread - #16/INFO]: [Not Secure] Player Thundra1: im back
-[00:00:19] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:00:30] [Server thread/INFO]: ironmanLJM issued server command: /tp -247 -27 89
-[00:00:31] [Async Chat Thread - #16/INFO]: [Not Secure] Player Thundra1: i afk rq
-[00:00:32] [Async Chat Thread - #17/INFO]: [Not Secure] [Owner] ironmanLJM: vc
-[00:00:37] [Async Chat Thread - #17/INFO]: [Not Secure] Player Thundra1: not yet
-[00:00:39] [Async Chat Thread - #17/INFO]: [Not Secure] Player Thundra1: my dad
-[00:00:47] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:00:56] [Server thread/INFO]: Thundra1 issued server command: /tpa ironman
-[00:00:56] [Server thread/INFO]: Thundra1 lost connection: Disconnected
-[00:00:56] [Server thread/INFO]: Thundra1 left the game
-[00:01:01] [Server thread/INFO]: ironmanLJM issued server command: /tpaccept
-[00:01:05] [User Authenticator #8/INFO]: UUID of player Thundra1 is 00f7e65d-7a92-322d-95f2-acffa5f6f407
-[00:01:06] [Server thread/INFO]: Thundra1 joined the game
-[00:01:06] [Server thread/INFO]: Thundra1[/[0:0:0:0:0:0:0:1]:56198] logged in with entity id 32506 at ([minecraft:overworld]293.8568660216315, 73.0, -874.2647480531454)
-[00:01:09] [Async Chat Thread - #17/INFO]: [Not Secure] Player Thundra1: back
-[00:01:12] [Server thread/INFO]: Thundra1 issued server command: /tpa ironmanLJM
-[00:01:13] [Server thread/INFO]: ironmanLJM issued server command: /tphere Thundra1
-[00:01:13] [Server thread/INFO]: Thundra1 has made the advancement [Minecraft: Trial(s) Edition]
-[00:01:15] [Async Chat Thread - #17/INFO]: [Not Secure] [Owner] ironmanLJM: all u bro
-[00:01:17] [Async Chat Thread - #16/INFO]: [Not Secure] [Owner] ironmanLJM: all u
-[00:01:18] [Async Chat Thread - #16/INFO]: [Not Secure] [Owner] ironmanLJM: btw
-[00:01:25] [Async Chat Thread - #16/INFO]: [Not Secure] Player Thundra1: uh ok
-[00:01:26] [Async Chat Thread - #16/INFO]: [Not Secure] [Owner] ironmanLJM: there will be more consiquinces
-[00:01:29] [Server thread/INFO]: [ironmanLJM: Set own game mode to Spectator Mode]
-[00:01:30] [Async Chat Thread - #16/INFO]: [Not Secure] Player Thundra1: BROOOOO
-[00:01:31] [Server thread/INFO]: ironmanLJM issued server command: /home hi
-[00:01:32] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:01:33] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:01:36] [Server thread/INFO]: ironmanLJM issued server command: /deop ThisNotAlex
-[00:01:36] [Server thread/INFO]: [ironmanLJM: Made ThisNotAlex no longer a server operator]
-[00:01:44] [Server thread/INFO]: ironmanLJM issued server command: /deop ironmanLJM
-[00:01:44] [Server thread/INFO]: [ironmanLJM: Made ironmanLJM no longer a server operator]
-[00:01:51] [Server thread/INFO]: ironmanLJM issued server command: /ban thisnotalex
-[00:02:09] [qtp1310498659-110/INFO]: [Better-WebConsole] [BWC] Command by 'admin': deop Hyrisks
-[00:02:09] [Server thread/INFO]: Made Hyrisks no longer a server operator
-[00:02:15] [qtp1310498659-116/INFO]: [Better-WebConsole] [BWC] Command by 'admin': deop Hyriskalt
-[00:02:15] [Server thread/INFO]: Made Hyriskalt no longer a server operator
-[00:02:25] [qtp1310498659-116/INFO]: [Better-WebConsole] [BWC] Command by 'admin': ban Hyrisks
-[00:02:35] [qtp1310498659-116/INFO]: [Better-WebConsole] [BWC] Command by 'admin': ban Hyrisalt
-[00:02:46] [qtp1310498659-110/INFO]: [Better-WebConsole] [BWC] Command by 'admin': ban ThisNotAlex
-[00:02:54] [Async Chat Thread - #18/INFO]: [Not Secure] [Owner] ironmanLJM: vc Thundra1
-[00:02:57] [Async Chat Thread - #18/INFO]: [Not Secure] Player Thundra1: OK
-[00:03:38] [qtp1310498659-110/INFO]: [Better-WebConsole] [BWC] Command by 'admin': op ironmanLJM
-[00:03:38] [Server thread/INFO]: Made ironmanLJM a server operator
-[00:03:42] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:04:13] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:04:19] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:04:31] [Server thread/INFO]: [ironmanLJM: Set own game mode to Adventure Mode]
-[00:06:00] [Craft Scheduler Thread - 1080 - AevorinReports/INFO]: [AevorinReports] A new version of AevorinReports (release) is available: 1.1.3
-[00:06:00] [Craft Scheduler Thread - 1080 - AevorinReports/INFO]: [AevorinReports] Download it from: https://cdn.modrinth.com/data/OwqSnlXx/versions/8WzOely5/AevorinReports-1.1.3-all.jar
-[00:08:19] [Server thread/INFO]: dark6777 was slain by Zombie
-[00:08:29] [Server thread/INFO]: [@: Made ThisNotAlex a server operator]
-[00:08:32] [Server thread/INFO]: dark6777 issued server command: /home base
-[00:09:06] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:09:12] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:09:18] [Server thread/INFO]: ironmanLJM issued server command: /deop ironmanLJM
-[00:09:18] [Server thread/INFO]: [ironmanLJM: Made ironmanLJM no longer a server operator]
-[00:09:43] [Server thread/INFO]: ironmanLJM issued server command: /tpa Thundra1
-[00:09:49] [Server thread/INFO]: Thundra1 issued server command: /tpacancel
-[00:09:56] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: TPA again
-[00:09:58] [Server thread/INFO]: Thundra1 issued server command: /tpaccept
-[00:09:58] [Server thread/INFO]: ironmanLJM issued server command: /tpa Thundra1
-[00:10:01] [Server thread/INFO]: Thundra1 issued server command: /tpaccept
-[00:10:09] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: check my trims
-[00:10:17] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: check my trims
-[00:10:24] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: wwww
-[00:10:27] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: tuff?
-[00:10:41] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: BRO THERE ARE NO VALTS
-[00:10:44] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: how much om keys u have
-[00:10:52] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: i have 2 ominnous keys
-[00:11:06] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: i have 2 ominnous keys
-[00:11:06] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: how?
-[00:11:08] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: oh yea
-[00:11:10] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: right
-[00:11:16] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: nice
-[00:11:20] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: BRO THERE ARE NO VALTS
-[00:11:25] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: check
-[00:11:34] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: btw
-[00:11:37] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: can u fight
-[00:11:45] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: fight u now?
-[00:11:48] [qtp1310498659-115/INFO]: [Better-WebConsole] [BWC] Command by 'admin': give iron
-[00:11:48] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give iron
-[00:11:48] [Server thread/INFO]: Command Help: /give
-[00:11:48] [Server thread/INFO]: Description: Give a player an item.
-[00:11:48] [Server thread/INFO]: Usage(s);
-[00:11:48] [Server thread/INFO]: /give <player> <item> [amount] - Gives the target player 64 (or the specified amount) of the specified item
-[00:11:48] [Server thread/INFO]: /give <player> <item> <amount> <meta> - Gives the target player the specified amount of the specified item with the given metadata
-[00:11:58] [qtp1310498659-113/INFO]: [Better-WebConsole] [BWC] Command by 'admin': give ironmanLJM golden_apple 19
-[00:11:58] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give ironmanLJM golden_apple 19
-[00:11:58] [Server thread/INFO]: Giving 19 of golden apple to ironmanLJM.
-[00:12:00] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: yea
-[00:12:06] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: why?
-[00:12:07] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: no mace
-[00:12:09] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: idk
-[00:12:11] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: ff
-[00:12:16] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: ok but after
-[00:12:21] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: after?
-[00:12:24] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: WHERE IS THE VALTS
-[00:12:26] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: idk
-[00:12:29] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: idfk
-[00:12:33] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: U BROKE THEM
-[00:12:39] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: >:)))))))))
-[00:12:46] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: consiquinces
-[00:12:56] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: did u know
-[00:13:06] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: what
-[00:13:09] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: you need to spend a fuking 120 seconds to break each vault
-[00:13:11] [Server thread/INFO]: dark6777 lost connection: Disconnected
-[00:13:11] [Server thread/INFO]: dark6777 left the game
-[00:13:14] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: T_T
-[00:13:19] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: the pain ive been through
-[00:13:37] [Server thread/INFO]: ironmanLJM issued server command: /tpa Thundra1
-[00:13:40] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: ttptptpptptptptptpt
-[00:13:43] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: WHYYYYY
-[00:13:47] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: why not
-[00:13:48] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: why not
-[00:13:50] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: ttptptpptptptptptpt
-[00:13:51] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: ttptptpptptptptptpt
-[00:13:51] [User Authenticator #9/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[00:13:51] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: ttptptpptptptptptpt
-[00:13:51] [Server thread/INFO]: dark6777 joined the game
-[00:13:51] [Server thread/INFO]: dark6777[/[0:0:0:0:0:0:0:1]:36352] logged in with entity id 37494 at ([minecraft:overworld]5464.699999988079, -43.0, -4960.300000011921)
-[00:13:53] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: u broke the valkts
-[00:14:02] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: in this trial yes
-[00:14:07] [Server thread/INFO]: Thundra1 issued server command: /tpaccept
-[00:14:08] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: good video idea :D
-[00:14:16] [Async Chat Thread - #21/INFO]: [Not Secure] [Owner] ironmanLJM: :D
-[00:14:34] [Server thread/INFO]: dark6777 lost connection: Disconnected
-[00:14:34] [Server thread/INFO]: dark6777 left the game
-[00:14:40] [Async Chat Thread - #21/INFO]: [Not Secure] Player Thundra1: bro
-[00:14:42] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: why
-[00:14:45] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: why not
-[00:14:49] [Async Chat Thread - #20/INFO]: [Not Secure] [Owner] ironmanLJM: consiquinces
-[00:14:51] [Async Chat Thread - #20/INFO]: [Not Secure] Player Thundra1: vc?
-[00:15:03] [User Authenticator #10/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[00:15:04] [Server thread/INFO]: dark6777 joined the game
-[00:15:04] [Server thread/INFO]: dark6777[/[0:0:0:0:0:0:0:1]:39808] logged in with entity id 37835 at ([minecraft:overworld]5464.699999988079, -43.0, -4960.300000011921)
-[00:15:36] [Server thread/INFO]: dark6777 issued server command: /home base
-[00:22:59] [Async Chat Thread - #22/INFO]: [Not Secure] [Owner] ironmanLJM: bru
-[00:23:32] [Server thread/INFO]: dark6777 lost connection: Disconnected
-[00:23:32] [Server thread/INFO]: dark6777 left the game
-[00:23:39] [User Authenticator #11/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[00:23:40] [Server thread/INFO]: dark6777 joined the game
-[00:23:40] [Server thread/INFO]: dark6777[/[0:0:0:0:0:0:0:1]:45870] logged in with entity id 40444 at ([minecraft:overworld]5656.215044790174, -23.0, -4603.625636655373)
-[00:24:08] [qtp1310498659-110/INFO]: [Better-WebConsole] [BWC] Command by 'admin': op ironmanLJM
-[00:24:08] [Server thread/INFO]: Made ironmanLJM a server operator
-[00:24:17] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:24:24] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:24:39] [Server thread/INFO]: dark6777 lost connection: Disconnected
-[00:24:39] [Server thread/INFO]: dark6777 left the game
-[00:24:48] [User Authenticator #12/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[00:24:49] [Server thread/INFO]: dark6777 joined the game
-[00:24:49] [Server thread/INFO]: dark6777[/[0:0:0:0:0:0:0:1]:49306] logged in with entity id 40821 at ([minecraft:overworld]5646.256379030644, -19.0, -4606.490117185785)
-[00:25:01] [Server thread/INFO]: dark6777 lost connection: Disconnected
-[00:25:01] [Server thread/INFO]: dark6777 left the game
-[00:25:07] [User Authenticator #13/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[00:25:07] [Server thread/INFO]: dark6777 joined the game
-[00:25:07] [Server thread/INFO]: dark6777[/[0:0:0:0:0:0:0:1]:57094] logged in with entity id 41035 at ([minecraft:overworld]5629.870277460584, -17.0, -4624.016416923781)
-[00:25:10] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:25:18] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:29:58] [Server thread/INFO]: ironmanLJM issued server command: /home hi
-[00:30:00] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:30:49] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:31:00] [Server thread/INFO]: ironmanLJM issued server command: /deop ironmanLJM
-[00:31:00] [Server thread/INFO]: [ironmanLJM: Made ironmanLJM no longer a server operator]
-[00:31:16] [Server thread/INFO]: ironmanLJM issued server command: /tpa Thundra1
-[00:31:18] [Server thread/INFO]: Thundra1 issued server command: /tpaccept
-[00:33:15] [Server thread/INFO]: dark6777 issued server command: /delhome tt
-[00:33:22] [Server thread/INFO]: dark6777 issued server command: /sethome spawn
-[00:33:25] [Server thread/WARN]: Thundra1 was kicked for floating too long!
-[00:33:25] [Server thread/INFO]: Thundra1 lost connection: Flying is not enabled on this server
-[00:33:25] [Server thread/INFO]: Thundra1 left the game
-[00:33:56] [User Authenticator #14/INFO]: UUID of player Thundra1 is 00f7e65d-7a92-322d-95f2-acffa5f6f407
-[00:33:58] [Server thread/INFO]: Thundra1 joined the game
-[00:33:58] [Server thread/INFO]: Thundra1[/[0:0:0:0:0:0:0:1]:53534] logged in with entity id 43723 at ([minecraft:overworld]-243.01364600880598, -27.833890739061786, 114.72002334431201)
-[00:35:59] [Server thread/INFO]: Thundra1 has made the advancement [Under Lock and Key]
-[00:36:59] [Server thread/INFO]: ironmanLJM issued server command: /home home
-[00:37:18] [Server thread/INFO]: Thundra1 issued server command: /home home
-[00:38:55] [Server thread/INFO]: Thundra1 issued server command: /home home
-[00:38:59] [Server thread/INFO]: dark6777 issued server command: /home base
-[00:39:00] [Server thread/INFO]: Thundra1 issued server command: /home home
-[00:40:54] [qtp1310498659-110/INFO]: [Better-WebConsole] [BWC] Command by 'admin': give ironmanLJM chest 4
-[00:40:54] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give ironmanLJM chest 4
-[00:40:54] [Server thread/INFO]: Giving 4 of chest to ironmanLJM.
-[00:41:51] [Server thread/INFO]: Thundra1 lost connection: Disconnected
-[00:41:51] [Server thread/INFO]: Thundra1 has combat logged!
-[00:41:51] [Server thread/INFO]: Thundra1 left the game
-[00:41:57] [User Authenticator #15/INFO]: UUID of player Thundra1 is 00f7e65d-7a92-322d-95f2-acffa5f6f407
-[00:41:58] [Server thread/INFO]: Thundra1 joined the game
-[00:41:58] [Server thread/INFO]: Thundra1[/[0:0:0:0:0:0:0:1]:44728] logged in with entity id 45882 at ([minecraft:overworld]288.7960256061922, -2.0, -877.6999999880791)
-[00:43:22] [Server thread/INFO]: dark6777 issued server command: /home spawn
-[00:44:52] [Server thread/INFO]: Thundra1 issued server command: /home home
-[00:45:48] [Server thread/INFO]: ironmanLJM issued server command: /home home
-[00:46:09] [Async Chat Thread - #24/INFO]: [Not Secure] Player Thundra1: no vc
-[00:46:50] [Server thread/INFO]: ironmanLJM issued server command: /home home
-[00:47:41] [Server thread/INFO]: ironmanLJM was impaled on a stalagmite
-[00:47:47] [Server thread/INFO]: ironmanLJM issued server command: /tpa Thundra1
-[00:47:50] [Server thread/INFO]: Thundra1 issued server command: /tpaccept
-[00:50:00] [Server thread/INFO]: Thundra1 issued server command: /home home
-[00:50:10] [Server thread/INFO]: ironmanLJM issued server command: /home home
-[00:50:58] [qtp1310498659-114/INFO]: [Better-WebConsole] [BWC] Command by 'admin': op ironmanLJM
-[00:50:58] [Server thread/INFO]: Made ironmanLJM a server operator
-[00:51:04] [Server thread/INFO]: ironmanLJM issued server command: /invsee Thundra1
-[00:51:09] [Async Chat Thread - #26/INFO]: [Not Secure] Player dark6777: i got a triden
-[00:51:11] [Async Chat Thread - #26/INFO]: [Not Secure] Player Thundra1: nice
-[00:52:52] [qtp1310498659-110/INFO]: [Better-WebConsole] [BWC] Command by 'admin': xp give  ironmanLJM 30;
-[00:52:52] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give ironmanLJM 30;
-[00:52:52] [Server thread/INFO]: Error: For input string: "30;"
-[00:52:58] [qtp1310498659-110/INFO]: [Better-WebConsole] [BWC] Command by 'admin': xp give  ironmanLJM 30l
-[00:52:58] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /xp give ironmanLJM 30l
-[00:52:58] [Server thread/INFO]: ironmanLJM now has 1,395 exp.
-[00:56:12] [Server thread/WARN]: Thundra1 was kicked for floating too long!
-[00:56:12] [Server thread/INFO]: Thundra1 lost connection: Flying is not enabled on this server
-[00:56:12] [Server thread/INFO]: Thundra1 left the game
-[00:56:29] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:56:40] [User Authenticator #16/INFO]: UUID of player Thundra1 is 00f7e65d-7a92-322d-95f2-acffa5f6f407
-[00:56:41] [Server thread/INFO]: Thundra1 joined the game
-[00:56:41] [Server thread/INFO]: Thundra1[/[0:0:0:0:0:0:0:1]:57686] logged in with entity id 50051 at ([minecraft:overworld]270.9502682611842, 64.00133597911214, -835.9465599464261)
-[00:56:48] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:56:51] [Async Chat Thread - #28/INFO]: [Not Secure] [Owner] ironmanLJM: vc
-[00:57:10] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[00:57:12] [Server thread/INFO]: dark6777 was shot by Arrow
-[00:57:15] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[00:57:24] [Server thread/INFO]: dark6777 issued server command: /home spawn
-[01:00:21] [Server thread/INFO]: dark6777 has completed the challenge [Blowback]
-[01:05:53] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[01:06:00] [Craft Scheduler Thread - 1438 - ClearLag/INFO]: ========================================
-[01:06:00] [Craft Scheduler Thread - 1438 - ClearLag/INFO]: ClearLag is outdated!
-[01:06:00] [Craft Scheduler Thread - 1438 - ClearLag/INFO]: Your version: 1.13.0
-[01:06:00] [Craft Scheduler Thread - 1438 - ClearLag/INFO]: Newest version: 2.0.2
-[01:06:00] [Craft Scheduler Thread - 1438 - ClearLag/INFO]: Download the new version here: https://modrinth.com/plugin/7bhTp28M
-[01:06:00] [Craft Scheduler Thread - 1438 - ClearLag/INFO]: ========================================
-[01:06:00] [Craft Scheduler Thread - 1439 - AevorinReports/INFO]: [AevorinReports] A new version of AevorinReports (release) is available: 1.1.3
-[01:06:00] [Craft Scheduler Thread - 1439 - AevorinReports/INFO]: [AevorinReports] Download it from: https://cdn.modrinth.com/data/OwqSnlXx/versions/8WzOely5/AevorinReports-1.1.3-all.jar
-[01:06:10] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[01:06:15] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
-[01:06:15] [Server thread/INFO]: ironmanLJM left the game
-[01:06:17] [qtp1310498659-116/INFO]: [Better-WebConsole] [BWC] WS disconnected: admin
-[01:08:38] [Async Chat Thread - #30/INFO]: [Not Secure] Player Thundra1: dark6777 yo
-[01:08:41] [Async Chat Thread - #30/INFO]: [Not Secure] Player Thundra1: vc?
-[01:08:41] [Async Chat Thread - #30/INFO]: [Not Secure] Player dark6777: yo
-[01:08:48] [Async Chat Thread - #30/INFO]: [Not Secure] Player dark6777: 1 ses
-[01:08:53] [Async Chat Thread - #30/INFO]: [Not Secure] Player Thundra1: ok
-[01:10:11] [Server thread/INFO]: Thundra1 issued server command: /tpa dark6777
-[01:10:15] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:12:23] [Server thread/INFO]: Thundra1 has reached the goal [Revaulting]
-[01:19:24] [Server thread/INFO]: dark6777 issued server command: /spawn
-[01:19:33] [Server thread/INFO]: dark6777 issued server command: /home spawn
-[01:19:38] [Server thread/INFO]: dark6777 issued server command: /home spawn
-[01:19:38] [Server thread/INFO]: dark6777 issued server command: /home spawn
-[01:19:40] [Server thread/INFO]: dark6777 issued server command: /
-[01:19:58] [Server thread/INFO]: Thundra1 issued server command: /tpa dark6777
-[01:20:01] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:20:11] [Server thread/WARN]: Thundra1 moved wrongly!
-[01:20:32] [Server thread/WARN]: dark6777 moved wrongly!
-[01:21:03] [Server thread/INFO]: dark6777 was slain by Zombie
-[01:21:12] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:21:16] [Server thread/INFO]: dark6777 issued server command: /tpa Thundra1
-[01:21:20] [Server thread/INFO]: Thundra1 issued server command: /tpaccept
-[01:21:44] [Server thread/WARN]: dark6777 moved wrongly!
-[01:24:24] [Server thread/INFO]: dark6777 issued server command: /home base
-[01:24:27] [Server thread/INFO]: Thundra1 issued server command: /home home
-[01:24:42] [Server thread/INFO]: Thundra1 issued server command: /tpahere dark6777
-[01:24:47] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:26:34] [Server thread/INFO]: dark6777 issued server command: /home base
-[01:27:31] [Server thread/INFO]: Thundra1 issued server command: /tpa dark6777
-[01:27:35] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:38:51] [Server thread/INFO]: dark6777 has made the advancement [Local Brewery]
-[01:39:19] [qtp1310498659-116/INFO]: [Better-WebConsole] [BWC] WS connected: admin@[0:0:0:0:0:0:0:1]
-[01:39:31] [User Authenticator #17/INFO]: UUID of player ironmanLJM is d00c14c9-9ee3-3788-b053-a1de57b43b72
-[01:39:32] [Server thread/INFO]: ironmanLJM joined the game
-[01:39:32] [Server thread/INFO]: ironmanLJM[/[0:0:0:0:0:0:0:1]:36060] logged in with entity id 60275 at ([minecraft:overworld]509.3492910102472, 69.0, -912.3226484140381)
-[01:39:40] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 ill msg u
-[01:39:50] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 ok?
-[01:39:57] [Server thread/INFO]: ironmanLJM issued server command: /tpa Thundra1
-[01:40:20] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 dont tell him ur mace
-[01:40:32] [Server thread/INFO]: dark6777 issued server command: /msg Thundra1 yes
-[01:40:41] [Server thread/INFO]: Thundra1 issued server command: /tpa dark6777
-[01:40:44] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 tp
-[01:40:45] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:41:08] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 jack has 3 maces
-[01:41:11] [Server thread/INFO]: ironmanLJM issued server command: /tpa dark6777
-[01:41:14] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:41:26] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 one in his ec
-[01:41:27] [Server thread/INFO]: dark6777 was smashed by ironmanLJM with [MACE ATACK!]
-[01:41:33] [Server thread/INFO]: dark6777 issued server command: /tpa ironmanLJM
-[01:41:37] [Server thread/INFO]: ironmanLJM issued server command: /tpaccept
-[01:42:01] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 slime him out??
-[01:42:22] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 slime him out??
-[01:42:35] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 jk i love jack
-[01:42:45] [Server thread/INFO]: ironmanLJM issued server command: /msg Thundra1 yo
-[01:42:51] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 yo
-[01:43:58] [Async Chat Thread - #32/INFO]: [Not Secure] [Owner] ironmanLJM: woohh
-[01:44:17] [Server thread/INFO]: Thundra1 issued server command: /tpa dark6777
-[01:44:21] [Server thread/INFO]: ironmanLJM issued server command: /tpa dark6777
-[01:44:29] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 tp
-[01:44:29] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 tp
-[01:44:35] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:44:37] [Server thread/INFO]: dark6777 issued server command: /tpaccept
-[01:45:38] [Server thread/INFO]: Thundra1 issued server command: /msg dark6777 BRO
-[01:46:30] [Server thread/INFO]: ironmanLJM issued server command: /invsee Thundra1
-[01:46:32] [Async Chat Thread - #34/INFO]: [Not Secure] Player Thundra1: broooo
-[01:46:38] [Async Chat Thread - #34/INFO]: [Not Secure] Player Thundra1: i dnt pick it up
-[01:46:39] [Async Chat Thread - #34/INFO]: [Not Secure] Player Thundra1: i dnt pick it up
-[01:46:39] [Async Chat Thread - #34/INFO]: [Not Secure] Player Thundra1: i dnt pick it up
-[01:46:48] [Server thread/INFO]: ironmanLJM issued server command: /invsee Thundra1
-[01:47:03] [Server thread/INFO]: ironmanLJM issued server command: /invsee Thundra1
-[01:47:09] [Server thread/INFO]: ironmanLJM issued server command: /invsee Thundra1 enderchest
-[01:47:18] [Async Chat Thread - #34/INFO]: [Not Secure] Player Thundra1: can i have my mace back
-[01:47:29] [Server thread/INFO]: ironmanLJM issued server command: /invsee dark6777
-[01:47:54] [Server thread/INFO]: Thundra1 issued server command: /msg ironmanLJM can i have the mcae back pls
-[01:47:55] [Server thread/INFO]: Thundra1 issued server command: /msg ironmanLJM can i have the mcae back pls
-[01:47:55] [Server thread/INFO]: Thundra1 issued server command: /msg ironmanLJM can i have the mcae back pls
-[01:47:55] [Server thread/INFO]: Thundra1 issued server command: /msg ironmanLJM can i have the mcae back pls
-[01:47:55] [Server thread/INFO]: Thundra1 issued server command: /msg ironmanLJM can i have the mcae back pls
-[01:48:00] [Server thread/INFO]: ironmanLJM issued server command: /ban dark6777
-[01:48:00] [Server thread/INFO]: dark6777 lost connection: AdvancedBanZ » Permanently banned
+[21:06:22] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.5.0.2+1-LTS; Microsoft Microsoft-15804669) on Linux 6.8.0-1070-azure (amd64)
+[21:06:22] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-111-main@f570646 (2026-08-07T16:16:19Z) for Minecraft 26.2
+[21:06:22] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:06:24] [ServerMain/INFO]: [FileProviderSource] The spark plugin will not be loaded as this server bundles the spark profiler.
+[21:06:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 31 plugins
+[21:06:24] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
+ - FancyHolograms (2.11.0), LuckTags (1.4)
+[21:06:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (29):
+ - AdvancedBanZ (4.0.1), AevorinReports (1.1.2), AntiBookBan (1.0.0), AttributeSwapFixer (1.0), AxSmithing (1.9), Better-WebConsole (2.4.11), BetterStasis (1.5.0), Chunky (1.5.3), ClearLag (1.13.0), ClickVillagers (1.6.3), CombatLog (1.20), CoreProtect (24.0), DragonEggTracker (2.1.2m), Essentials (2.22.1-dev+23-43cb76a), EssentialsSpawn (2.22.1-dev+23-43cb76a), InvisDeathMessage (0.1.0), LPC (3.7.2), LocatorBar (1.1), LuckPerms (5.5.81), MaceConfig (0.2.2), NoNetheritePlus (1.6.0), OrbitalStrike (1.6.8), TuffXPlus (1.1.1), ViaBackwards (5.11.0), ViaVersion (5.11.0), VillagerVault (1.0.0), WildRTP (3.6.5), WorldEdit (7.4.5+7590-b8dc4c1), WorldGuard (7.0.18+2392-fa605e6)
+[21:06:37] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:06:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:06:40] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 2,584.1ms
+[21:06:41] [ServerMain/WARN]: Error reading pack metadata, attempting fallback type
+com.google.gson.JsonParseException: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-10.0.21.jar:?]
+	at net.minecraft.server.packs.resources.ResourceMetadata$2.getSection(ResourceMetadata.java:38) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.AbstractPackResources.getMetadataSection(AbstractPackResources.java:24) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.repository.Pack.readPackMetadata(Pack.java:51) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.repository.Pack.readMetaAndCreate(Pack.java:32) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.repository.FolderRepositorySource.lambda$loadPacks$0(FolderRepositorySource.java:54) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.repository.FolderRepositorySource.discoverPacks(FolderRepositorySource.java:80) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.repository.FolderRepositorySource.loadPacks(FolderRepositorySource.java:52) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.repository.PackRepository.discoverAvailable(PackRepository.java:52) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.packs.repository.PackRepository.reload(PackRepository.java:44) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.configurePackRepository(MinecraftServer.java:2362) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.WorldLoader$PackConfig.createResourceManager(WorldLoader.java:107) ~[paper-26.2.jar:26.2-111-f570646]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1789) ~[?:?]
+	at net.minecraft.util.Util.blockUntilDone(Util.java:1140) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.util.Util.blockUntilDone(Util.java:1129) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.Main.main(Main.java:242) ~[paper-26.2.jar:26.2-111-f570646]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:25) ~[paper-26.2.jar:26.2-111-f570646]
+	at org.bukkit.craftbukkit.Main.main(Main.java:204) ~[paper-26.2.jar:26.2-111-f570646]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[21:06:47] [ServerMain/INFO]: Loaded 1585 recipes
+[21:06:47] [ServerMain/INFO]: Loaded 1688 advancements
+[21:06:48] [Server thread/INFO]: Starting minecraft server version 26.2
+[21:06:48] [Server thread/INFO]: Loading properties
+[21:06:48] [Server thread/INFO]: This server is running Paper version 26.2-111-main@f570646 (2026-08-07T16:16:19Z) (Implementing API version 26.2.build.111-stable)
+[21:06:48] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:06:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:06:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:06:49] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:06:49] [Server thread/ERROR]: [MapSerializer] Could not deserialize key potion into net.minecraft.world.entity.EntityType<?> at [chunks, entity-per-chunk-save-limit]: Missing value in Registry[ResourceKey[minecraft:root / minecraft:entity_type] (Stable)] with key minecraft:potion
+[21:06:49] [Server thread/INFO]: Default game type: SURVIVAL
+[21:06:49] [Server thread/INFO]: Generating keypair
+[21:06:49] [Server thread/INFO]: Starting Minecraft server on *:25567
+[21:06:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:06:49] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:06:51] [Server thread/INFO]: [SpigotLibraryLoader] [ClearLag] Loading 2 libraries... please wait
+[21:06:51] [Server thread/INFO]: [SpigotLibraryLoader] [ClearLag] Loaded library /workspaces/craftmine/server/libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+[21:06:51] [Server thread/INFO]: [SpigotLibraryLoader] [ClearLag] Loaded library /workspaces/craftmine/server/libraries/org/xerial/sqlite-jdbc/3.46.1.3/sqlite-jdbc-3.46.1.3.jar
+[21:06:51] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
+[21:06:51] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
+[21:06:52] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[21:06:52] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[21:06:53] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.5+7590-b8dc4c1
+[21:06:53] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1c093c0a]
+[21:06:53] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.81
+[21:06:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:06:54] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.18+2392-fa605e6
+[21:06:54] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
+[21:06:54] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.1-dev+23-43cb76a
+[21:06:54] [Server thread/INFO]: [FancyHolograms] Loading server plugin FancyHolograms v2.11.0
+[21:06:54] [Server thread/INFO]: [NoNetheritePlus] Loading server plugin NoNetheritePlus v1.6.0
+[21:06:54] [Server thread/INFO]: [MaceConfig] Loading server plugin MaceConfig v0.2.2
+[21:06:54] [Server thread/INFO]: [AdvancedBanZ] Loading server plugin AdvancedBanZ v4.0.1
+[21:06:54] [Server thread/INFO]: [LuckTags] Loading server plugin LuckTags v1.4
+[21:06:54] [Server thread/INFO]: [CombatLog] Loading server plugin CombatLog v1.20
+[21:06:54] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully loaded FancyHolograms version 2.11.0
+[21:06:54] [Server thread/INFO]: [CombatLog] WorldGuard detected: custom flag 'allow-combat-entry' registered.
+[21:06:54] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.6.3
+[21:06:54] [Server thread/INFO]: [Better-WebConsole] Loading server plugin Better-WebConsole v2.4.11
+[21:06:54] [Server thread/INFO]: [OrbitalStrike] Loading server plugin OrbitalStrike v1.6.8
+[21:06:54] [Server thread/INFO]: [InvisDeathMessage] Loading server plugin InvisDeathMessage v0.1.0
+[21:06:54] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.7.2
+[21:06:54] [Server thread/INFO]: [VillagerVault] Loading server plugin VillagerVault v1.0.0
+[21:06:54] [Server thread/INFO]: [AevorinReports] Loading server plugin AevorinReports v1.1.2
+[21:06:54] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v24.0
+[21:06:54] [Server thread/INFO]: [AxSmithing] Loading server plugin AxSmithing v1.9
+[21:06:54] [Server thread/INFO]: [DragonEggTracker] Loading server plugin DragonEggTracker v2.1.2m
+[21:06:54] [Server thread/INFO]: [TuffXPlus] Loading server plugin TuffXPlus v1.1.1
+[21:06:55] [Server thread/INFO]: [packetevents] Loading packetevents...
+[21:06:58] [Server thread/INFO]: [packetevents] Loaded packetevents v2.13.0 for TuffXPlus
+[21:06:58] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.5.3
+[21:06:58] [Server thread/INFO]: [WildRTP] Loading server plugin WildRTP v3.6.5
+[21:06:58] [Server thread/INFO]: [LocatorBar] Loading server plugin LocatorBar v1.1
+[21:06:58] [Server thread/INFO]: [AttributeSwapFixer] Loading server plugin AttributeSwapFixer v1.0
+[21:06:58] [Server thread/INFO]: [BetterStasis] Loading server plugin BetterStasis v1.5.0
+[21:06:58] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.22.1-dev+23-43cb76a
+[21:06:58] [Server thread/INFO]: [AntiBookBan] Loading server plugin AntiBookBan v1.0.0
+[21:06:58] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v1.13.0
+[21:06:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.5+7590-b8dc4c1
+[21:06:58] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:06:58] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:06:59] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_2.PaperweightAdapter as the Bukkit adapter
+[21:06:59] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.81
+[21:06:59] [Server thread/INFO]:         __    
+[21:06:59] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.81
+[21:06:59] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[21:06:59] [Server thread/INFO]: 
+[21:07:00] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:07:00] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:07:00] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:07:00] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1371ms)
+[21:07:00] [Server thread/INFO]: [Better-WebConsole] Enabling Better-WebConsole v2.4.11
+[21:07:01] [Server thread/INFO]: [Better-WebConsole] [Better-WebConsole] Loaded 1 user(s).
+[21:07:02] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.Server] jetty-11.0.20; built: 2024-01-29T21:04:22.394Z; git: 922f8dc188f7011e60d0361de585fd4ac4d63064; jvm 25.0.5.0.2+1-LTS
+[21:07:02] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.session.DefaultSessionIdManager] Session workerName=node0
+[21:07:02] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.handler.ContextHandler] Started d.w.s.j.s.ServletContextHandler@141914f1{/,null,AVAILABLE}
+[21:07:02] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.AbstractConnector] Started ServerConnector@421c0230{HTTP/1.1, (http/1.1)}{0.0.0.0:4242}
+[21:07:02] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.Server] Started Server@103c351{STARTING}[11.0.20,sto=0] @43425ms
+[21:07:02] [Server thread/INFO]: [Better-WebConsole] Better-WebConsole started on 0.0.0.0:4242
+[21:07:02] [Server thread/WARN]: [Better-WebConsole] [SECURITY] Better-WebConsole is listening on all interfaces without secure cookies or an IP whitelist.
+[21:07:02] [Server thread/WARN]: [Better-WebConsole] [SECURITY] For production, bind to 127.0.0.1 behind HTTPS/VPN/firewall or configure security.ip-whitelist.
+[21:07:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:07:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:07:02] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[21:07:02] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
+[21:07:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:07:02] [Server thread/INFO]: Preparing level "world"
+[21:07:02] [Server thread/ERROR]: [MapSerializer] Could not deserialize key potion into net.minecraft.world.entity.EntityType<?> at [chunks, entity-per-chunk-save-limit]: Missing value in Registry[ResourceKey[minecraft:root / minecraft:entity_type] (Stable)] with key minecraft:potion
+[21:07:02] [Server thread/ERROR]: [MapSerializer] Could not deserialize key potion into net.minecraft.world.entity.EntityType<?> at [chunks, entity-per-chunk-save-limit]: Missing value in Registry[ResourceKey[minecraft:root / minecraft:entity_type] (Stable)] with key minecraft:potion
+[21:07:03] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[21:07:03] [Server thread/INFO]: Preparing spawn area: 100%
+[21:07:03] [Server thread/INFO]: Prepared spawn area in 2 ms
+[21:07:03] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[21:07:03] [Server thread/INFO]: Prepared spawn area in 0 ms
+[21:07:03] [Server thread/INFO]: Done preparing level "world" (0.717s)
+[21:07:03] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
+[21:07:03] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
+[21:07:03] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.18+2392-fa605e6
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:07:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:07:03] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:07:03] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
+[21:07:03] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.1-dev+23-43cb76a
+[21:07:04] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:07:04] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Modern (Registry-based) PatternType Provider as the provider for PatternTypeProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[21:07:04] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[21:07:04] [Server thread/INFO]: [Essentials] Loaded 46861 items from items.json.
+[21:07:04] [Server thread/INFO]: [Essentials] Using locale en
+[21:07:04] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:07:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:07:04] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[21:07:04] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[21:07:04] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[21:07:04] [Server thread/INFO]: [FancyHolograms] Enabling FancyHolograms v2.11.0
+[21:07:04] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully enabled FancyHolograms version 2.11.0
+[21:07:04] [Server thread/INFO]: [NoNetheritePlus] Enabling NoNetheritePlus v1.6.0
+[21:07:04] [Server thread/INFO]: [NoNetheritePlus] Removed netherite upgrade recipe for: NETHERITE_BOOTS
+[21:07:04] [Server thread/INFO]: [NoNetheritePlus] Removed netherite upgrade recipe for: NETHERITE_CHESTPLATE
+[21:07:05] [Server thread/INFO]: [NoNetheritePlus] Removed netherite upgrade recipe for: NETHERITE_HELMET
+[21:07:05] [Server thread/INFO]: [NoNetheritePlus] Removed netherite upgrade recipe for: NETHERITE_HORSE_ARMOR
+[21:07:05] [Server thread/INFO]: [NoNetheritePlus] Removed netherite upgrade recipe for: NETHERITE_LEGGINGS
+[21:07:05] [Server thread/INFO]: [NoNetheritePlus] NoNetheritePlus plugin enabled!
+[21:07:05] [Server thread/INFO]: [MaceConfig] Enabling MaceConfig v0.2.2
+[21:07:05] [Server thread/INFO]: [AdvancedBanZ] Enabling AdvancedBanZ v4.0.1
+[21:07:05] [FancyLogger/INFO]: [FancyHolograms] (ForkJoinPool.commonPool-worker-1) WARN: 
+[21:07:05] [FancyLogger/INFO]: -------------------------------------------------------
+[21:07:05] [FancyLogger/INFO]: You are not using the latest version of the FancyHolograms plugin.
+[21:07:05] [FancyLogger/INFO]: Please update to the newest version (2.12.0).
+[21:07:05] [FancyLogger/INFO]: https://modrinth.com/plugin/FancyHolograms
+[21:07:05] [FancyLogger/INFO]: -------------------------------------------------------
+[21:07:05] [FancyLogger/INFO]: 
+[21:07:05] [Server thread/INFO]: [AdvancedBanZ] 
 
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:48:00] [Server thread/INFO]: dark6777 left the game
-[01:48:08] [Server thread/INFO]: ironmanLJM issued server command: /invsee Thundra1
-[01:48:20] [User Authenticator #18/INFO]: Disconnecting dark6777 (/[0:0:0:0:0:0:0:1]:54594): AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:48:20] [User Authenticator #18/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[01:48:20] [Server thread/INFO]: dark6777 (/[0:0:0:0:0:0:0:1]:54594) lost connection: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:48:49] [User Authenticator #19/INFO]: UUID of player dark67 is 41942e52-3953-35f5-95f8-cfdda10d1924
-[01:48:50] [Server thread/INFO]: dark67 joined the game
-[01:48:50] [Server thread/INFO]: dark67[/[0:0:0:0:0:0:0:1]:52554] logged in with entity id 61994 at ([minecraft:overworld]33.5, 72.0, 97.5)
-[01:48:54] [Server thread/INFO]: ironmanLJM issued server command: /ban dark67
-[01:48:54] [Server thread/INFO]: dark67 lost connection: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:48:54] [Server thread/INFO]: dark67 left the game
-[01:48:57] [Async Chat Thread - #36/INFO]: [Not Secure] Player Thundra1: i gtg
-[01:49:00] [Server thread/INFO]: Thundra1 lost connection: Disconnected
-[01:49:00] [Server thread/INFO]: Thundra1 left the game
-[01:49:15] [User Authenticator #20/INFO]: Disconnecting dark67 (/[0:0:0:0:0:0:0:1]:35516): AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:49:15] [User Authenticator #20/INFO]: UUID of player dark67 is 41942e52-3953-35f5-95f8-cfdda10d1924
-[01:49:15] [Server thread/INFO]: dark67 (/[0:0:0:0:0:0:0:1]:35516) lost connection: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:49:18] [Server thread/INFO]: ironmanLJM issued server command: /enderchest ironmanLJM
-[01:49:24] [Server thread/INFO]: ironmanLJM issued server command: /enderchest thundra1
-[01:50:09] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[01:50:12] [User Authenticator #21/INFO]: Disconnecting dark6777 (/[0:0:0:0:0:0:0:1]:32894): AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:50:12] [User Authenticator #21/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[01:50:12] [Server thread/INFO]: dark6777 (/[0:0:0:0:0:0:0:1]:32894) lost connection: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:50:17] [User Authenticator #22/INFO]: Disconnecting dark6777 (/[0:0:0:0:0:0:0:1]:32908): AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:50:17] [User Authenticator #22/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[01:50:17] [Server thread/INFO]: dark6777 (/[0:0:0:0:0:0:0:1]:32908) lost connection: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:50:20] [Server thread/INFO]: ironmanLJM issued server command: /unban dark6777
-[01:50:22] [User Authenticator #23/INFO]: UUID of player dark6777 is 9608d436-1ed4-37ce-b19e-254855361526
-[01:50:22] [Server thread/INFO]: dark6777 joined the game
-[01:50:22] [Server thread/INFO]: dark6777[/[0:0:0:0:0:0:0:1]:43146] logged in with entity id 62252 at ([minecraft:the_nether]589.9244710451974, 80.0, -582.4766751082974)
-[01:51:37] [Server thread/INFO]: dark6777 issued server command: /home spawn
-[01:51:40] [Server thread/INFO]: ironmanLJM issued server command: /tp dark6777
-[01:53:13] [Server thread/INFO]: ironmanLJM issued server command: /enchant breach 4
-[01:53:15] [Server thread/INFO]: ironmanLJM issued server command: /enchant mending
-[01:53:20] [Server thread/INFO]: ironmanLJM issued server command: /enchant unbreaking 3
-[01:53:23] [Server thread/INFO]: dark6777 issued server command: /home base
-[01:53:54] [Server thread/INFO]: ironmanLJM issued server command: /tp dark6777
-[01:54:29] [Server thread/INFO]: ironmanLJM issued server command: /enderchest dark6777
-[01:54:41] [Server thread/INFO]: ironmanLJM issued server command: /invsee dark6777
-[01:54:55] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[01:56:02] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[01:56:09] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[01:57:23] [Server thread/INFO]: ironmanLJM issued server command: /sethome chase
-[01:57:44] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[01:57:47] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[01:59:36] [Server thread/INFO]: dark6777 was slain by ironmanLJM
-[01:59:42] [Server thread/INFO]: dark6777 issued server command: /home base
-[02:00:00] [Server thread/INFO]: dark6777 was slain by ironmanLJM
-[02:00:05] [Server thread/INFO]: dark6777 issued server command: /home base
-[02:00:16] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[02:00:20] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[02:01:59] [Server thread/INFO]: dark6777 was slain by ironmanLJM
-[02:02:03] [Server thread/INFO]: dark6777 issued server command: /home base
-[02:03:49] [Server thread/INFO]: ironmanLJM issued server command: /time day
-[02:04:05] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[02:04:10] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[02:06:00] [Craft Scheduler Thread - 1796 - AevorinReports/INFO]: [AevorinReports] A new version of AevorinReports (release) is available: 1.1.3
-[02:06:00] [Craft Scheduler Thread - 1796 - AevorinReports/INFO]: [AevorinReports] Download it from: https://cdn.modrinth.com/data/OwqSnlXx/versions/8WzOely5/AevorinReports-1.1.3-all.jar
-[02:08:35] [Server thread/INFO]: dark6777 was slain by ironmanLJM
-[02:08:43] [Server thread/INFO]: dark6777 issued server command: /home base
-[02:09:23] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[02:09:27] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[02:09:39] [Server thread/INFO]: [ironmanLJM: Set own game mode to Creative Mode]
-[02:09:44] [Server thread/INFO]: [ironmanLJM: Set own game mode to Survival Mode]
-[02:10:07] [Server thread/INFO]: ironmanLJM issued server command: /deop ironmanLJM
-[02:10:07] [Server thread/INFO]: [ironmanLJM: Made ironmanLJM no longer a server operator]
-[02:10:18] [Server thread/INFO]: dark6777 lost connection: Disconnected
-[02:10:18] [Server thread/INFO]: dark6777 left the game
-[02:11:17] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
-[02:11:17] [Server thread/INFO]: ironmanLJM left the game
-[02:13:15] [User Authenticator #24/INFO]: UUID of player Thundra1 is 00f7e65d-7a92-322d-95f2-acffa5f6f407
-[02:13:16] [Server thread/INFO]: Thundra1 joined the game
-[02:13:16] [Server thread/INFO]: Thundra1[/[0:0:0:0:0:0:0:1]:48218] logged in with entity id 65219 at ([minecraft:the_nether]588.4042701163879, 79.0, -584.6441879628221)
-[02:13:24] [Server thread/INFO]: Thundra1 lost connection: Disconnected
-[02:13:24] [Server thread/INFO]: Thundra1 left the game
-[02:15:15] [qtp1310498659-114/INFO]: [Better-WebConsole] [BWC] WS disconnected: admin
-[02:15:33] [Server thread/INFO]: Stopping server
-[02:15:33] [Server thread/INFO]: [ClearLag] Disabling ClearLag v1.13.0
-[02:15:33] [Server thread/INFO]: [ClearLag] ClearLag has been disabled!
-[02:15:33] [Server thread/INFO]: [AntiBookBan] Disabling AntiBookBan v1.0.0
-[02:15:33] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.22.1-dev+23-43cb76a
-[02:15:33] [Server thread/INFO]: [BetterStasis] Disabling BetterStasis v1.5.0
-[02:15:33] [Server thread/INFO]: [BetterStasis] Better Stasis plugin disabled!
-[02:15:33] [Server thread/INFO]: [AttributeSwapFixer] Disabling AttributeSwapFixer v1.0
-[02:15:33] [Server thread/INFO]: [LocatorBar] Disabling LocatorBar v1.1
-[02:15:33] [Server thread/INFO]: [LocatorBar] LocatorBar has been disabled!
-[02:15:33] [Server thread/INFO]: [WildRTP] Disabling WildRTP v3.6.5
-[02:15:33] [Server thread/INFO]: [Chunky] Disabling Chunky v1.5.3
-[02:15:33] [Server thread/INFO]: [TuffXPlus] Disabling TuffXPlus v1.1.1
-[02:15:33] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been disabled.
-[02:15:33] [Server thread/INFO]: [DragonEggTracker] Disabling DragonEggTracker v2.1.2m
-[02:15:34] [Server thread/INFO]: [DragonEggTracker] DragonEggTracker disabled.
-[02:15:34] [Server thread/INFO]: [AxSmithing] Disabling AxSmithing v1.9
-[02:15:34] [Server thread/INFO]: [AevorinReports] Disabling AevorinReports v1.1.2
-[02:15:34] [Server thread/INFO]: [AevorinReports] Shutting down AevorinReports
-[02:15:34] [Server thread/INFO]: [AevorinReports] Closing database connections...
-[02:15:34] [Server thread/INFO]: [dev.aevorinstudios.aevorinreports.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
-[02:15:34] [Server thread/INFO]: [dev.aevorinstudios.aevorinreports.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
-[02:15:34] [Server thread/INFO]: [AevorinReports] Database connections closed successfully.
-[02:15:34] [Server thread/ERROR]: [dev.aevorinstudios.aevorinReports.database.DatabaseManager] Failed to get report count for status PENDING: HikariDataSource HikariDataSource (HikariPool-1) has been closed.
-[02:15:34] [Server thread/ERROR]: [dev.aevorinstudios.aevorinReports.database.DatabaseManager] Failed to get total reports count: HikariDataSource HikariDataSource (HikariPool-1) has been closed.
-[02:15:34] [Server thread/INFO]: [AevorinReports] AevorinReports has been disabled!
-[02:15:34] [Server thread/INFO]: [VillagerVault] Disabling VillagerVault v1.0.0
-[02:15:34] [Server thread/INFO]: [VillagerVault] VillagerVault has been disabled.
-[02:15:34] [Server thread/INFO]: [LPC] Disabling LPC v3.7.2
-[02:15:34] [Server thread/INFO]: [InvisDeathMessage] Disabling InvisDeathMessage v0.1.0
-[02:15:34] [Server thread/INFO]: [OrbitalStrike] Disabling OrbitalStrike v1.6.8
-[02:15:34] [Server thread/INFO]: [Better-WebConsole] Disabling Better-WebConsole v2.4.11
-[02:15:34] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.Server] Stopped Server@d1d4058{STOPPING}[11.0.20,sto=0]
-[02:15:34] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.AbstractConnector] Stopped ServerConnector@11f22b12{HTTP/1.1, (http/1.1)}{0.0.0.0:4242}
-[02:15:34] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.handler.ContextHandler] Stopped d.w.s.j.s.ServletContextHandler@438c46b0{/,null,STOPPED}
-[02:15:34] [Server thread/INFO]: [Better-WebConsole] Better-WebConsole disabled.
-[02:15:34] [Server thread/INFO]: [ClickVillagers] Disabling ClickVillagers v1.6.3
-[02:15:34] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.20
-[02:15:34] [Server thread/INFO]: [LuckTags] Disabling LuckTags v1.4
-[02:15:34] [Server thread/INFO]: [AdvancedBanZ] Disabling AdvancedBanZ v4.0.1
-[02:15:34] [Server thread/INFO]: [AdvancedBanZ] 
-
-[]=====[Disabling AdvancedBanZ]=====[]
+[]=====[Enabling AdvancedBanZ]=====[]
 | Information:
 |   Name: AdvancedBanZ
 |   Developer: Leoko
@@ -514,63 +206,158 @@ Forum » coming soon
 |   Storage: SQLite (local)
 | Support:
 |   GitHub: https://github.com/At87668/AdvancedBanZ/issues
+| Update:
+|   You have the newest version
 []================================[]
  
-[02:15:34] [Server thread/INFO]: [FancyHolograms] Disabling FancyHolograms v2.11.0
-[02:15:34] [Server thread/ERROR]: Error occurred while disabling FancyHolograms v2.11.0
-java.util.concurrent.RejectedExecutionException: Task java.util.concurrent.FutureTask@5c8e6cd6[Not completed, task = java.util.concurrent.Executors$RunnableAdapter@b796c16[Wrapped task = de.oliver.fancyanalytics.logger.FancyLogger$$Lambda/0x00000000206ae7b8@1a152e09]] rejected from java.util.concurrent.ThreadPoolExecutor@766e62da[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 3]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2032) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:787) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1328) ~[?:?]
-	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125) ~[?:?]
-	at java.base/java.util.concurrent.Executors$DelegatedExecutorService.submit(Executors.java:696) ~[?:?]
-	at FancyHolograms-2.11.0.jar//de.oliver.fancyanalytics.logger.FancyLogger.log(FancyLogger.java:117) ~[?:?]
-	at FancyHolograms-2.11.0.jar//de.oliver.fancyanalytics.logger.ExtendedFancyLogger.log(ExtendedFancyLogger.java:60) ~[?:?]
-	at FancyHolograms-2.11.0.jar//de.oliver.fancyanalytics.logger.ExtendedFancyLogger.info(ExtendedFancyLogger.java:77) ~[?:?]
-	at FancyHolograms-2.11.0.jar//de.oliver.fancyholograms.FancyHolograms.onDisable(FancyHolograms.java:188) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-26.2.build.111-stable.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:236) ~[paper-26.2.jar:26.2-111-f570646]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:160) ~[paper-26.2.jar:26.2-111-f570646]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-26.2.jar:26.2-111-f570646]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:540) ~[paper-api-26.2.build.111-stable.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:606) ~[paper-26.2.jar:26.2-111-f570646]
-	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1028) ~[paper-26.2.jar:26.2-111-f570646]
-	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:909) ~[paper-26.2.jar:26.2-111-f570646]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1384) ~[paper-26.2.jar:26.2-111-f570646]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-26.2.jar:26.2-111-f570646]
-	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
-[02:15:34] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.1-dev+23-43cb76a
-[02:15:34] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.11.0
-[02:15:34] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.18+2392-fa605e6
-[02:15:34] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[02:15:34] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.81
-[02:15:34] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[02:15:34] [Server thread/INFO]: [LuckPerms] Closing storage...
-[02:15:34] [Server thread/INFO]: [LuckPerms] Goodbye!
-[02:15:34] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.5+7590-b8dc4c1
-[02:15:34] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[02:15:34] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.11.0
-[02:15:34] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:15:34] [Server thread/INFO]: Saving players
-[02:15:34] [Server thread/INFO]: Saving worlds
-[02:15:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:15:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
-[02:15:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
-[02:15:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
-[02:15:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.01s
-[02:15:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
-[02:15:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
-[02:15:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:15:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
-[02:15:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
-[02:15:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
-[02:15:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
-[02:15:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
-[02:15:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
-[02:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:15:37] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[02:15:37] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[02:15:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[02:15:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[21:07:05] [Server thread/INFO]: [LuckTags] Enabling LuckTags v1.4
+[21:07:05] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.20
+[21:07:05] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.6.3
+[21:07:05] [Server thread/INFO]: [ClickVillagers] Checking for updates...
+[21:07:05] [Server thread/INFO]: [OrbitalStrike] Enabling OrbitalStrike v1.6.8
+[21:07:05] [Server thread/INFO]: [InvisDeathMessage] Enabling InvisDeathMessage v0.1.0
+[21:07:05] [Server thread/INFO]: [LPC] Enabling LPC v3.7.2
+[21:07:05] [Server thread/INFO]: [VillagerVault] Enabling VillagerVault v1.0.0
+[21:07:05] [Server thread/INFO]: [VillagerVault] Statistics tracking enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] Villager death backup enabled (max 30).
+[21:07:05] [Server thread/INFO]: [VillagerVault] Villager glow highlighting enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] Infinite villager stock enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] Villager pickup & placement enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] Villager leashing enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] Villager info display enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] No-wandering/freeze system enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] Villager death backup listener enabled.
+[21:07:05] [Server thread/INFO]: [VillagerVault] Bedrock support enabled (will use UUID heuristic if Bedrock players join).
+[21:07:05] [Server thread/INFO]: [VillagerVault] VillagerVault has been enabled!
+[21:07:05] [Server thread/INFO]: [AevorinReports] Enabling AevorinReports v1.1.2
+[21:07:05] [Server thread/INFO]: [AevorinReports] Initializing AevorinReports
+[21:07:05] [Server thread/INFO]: [AevorinReports] Initializing enhanced exception handler...
+[21:07:05] [Server thread/INFO]: [AevorinReports] Loading configuration files...
+[21:07:05] [Server thread/INFO]: [dev.aevorinstudios.aevorinReports.config.ConfigManager] Loading configuration from plugins/AevorinReports/config.yml
+[21:07:05] [Server thread/INFO]: [dev.aevorinstudios.aevorinReports.config.ConfigManager] Configuration loaded successfully
+[21:07:05] [Server thread/INFO]: [AevorinReports] Configuration loaded successfully.
+[21:07:06] [Server thread/INFO]: [dev.aevorinstudios.aevorinreports.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:07:06] [Server thread/INFO]: [dev.aevorinstudios.aevorinreports.libs.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@3339107
+[21:07:06] [Server thread/INFO]: [dev.aevorinstudios.aevorinreports.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:07:06] [ForkJoinPool.commonPool-worker-1/INFO]: [ClickVillagers] New version available: 1.6.4
+[21:07:06] [Server thread/INFO]: [AevorinReports] Registering commands...
+[21:07:06] [Server thread/INFO]: [AevorinReports] Registered 'report' command and tab completer
+[21:07:06] [Server thread/INFO]: [AevorinReports] Registered 'reports' command
+[21:07:06] [Server thread/INFO]: [AevorinReports] Commands registered successfully!
+[21:07:06] [Server thread/INFO]: [AevorinReports] Registering event listeners...
+[21:07:06] [Server thread/INFO]: [AevorinReports] Event listeners registered successfully!
+[21:07:06] [Server thread/INFO]: [AevorinReports] PlaceholderAPI not found. Skipping placeholder registration.
+[21:07:06] [Server thread/INFO]: [AevorinReports] Modrinth update checker initialized with project ID: OwqSnlXx
+[21:07:06] [Server thread/INFO]: [AevorinReports] bStats Metrics initialized properly.
+[21:07:06] [Server thread/INFO]: [AevorinReports] FastStats Metrics initialized and ready.
+[21:07:06] [Server thread/INFO]: [AevorinReports] AevorinReports has been enabled!
+[21:07:06] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v24.0
+[21:07:06] [Server thread/INFO]: [CoreProtect] Minecraft 26.2 is not supported.
+[21:07:06] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition was unable to start.
+[21:07:06] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v24.0
+[21:07:06] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[21:07:06] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v24.0
+[21:07:06] [Server thread/INFO]: [AxSmithing] Enabling AxSmithing v1.9
+[21:07:06] [Server thread/INFO]: [DragonEggTracker] Enabling DragonEggTracker v2.1.2m
+[21:07:06] [Server thread/INFO]: [DragonEggTracker] DragonEggTracker enabled successfully!
+[21:07:06] [Server thread/INFO]: [TuffXPlus] Enabling TuffXPlus v1.1.1
+[21:07:06] [Server thread/INFO]: [TuffXPlus] Using standard Bukkit-compatible schedulers.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [Y0] Server Minecraft Version: 26.2
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] Successfully loaded 1326 creative tab mappings.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] TuffActions has been enabled
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] Enabling features...
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] Swimming enabled.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] Creative Items enabled.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] Loading Restrictions config...
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] Restrictions enabled.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [TuffActions] Finished enabling features.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Generating ViaBlocks Pre-Defined Palette...
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] Palette initialized with 649 entries.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been enabled successfully and is listening for client handshakes.
+[21:07:06] [Server thread/INFO]: [TuffXPlus] [ViaEntities] ViaEntities enabled with 43 modern entities
+[21:07:06] [Server thread/INFO]: [TuffXPlus] 
+[21:07:06] [Server thread/INFO]: [TuffXPlus] ████████╗██╗   ██╗███████╗ ███████╗ ██╗  ██╗     ██╗
+[21:07:06] [Server thread/INFO]: [TuffXPlus] ╚══██╔══╝██║   ██║██╔════╝ ██╔════╝ ╚██╗██╔╝     ██║
+[21:07:06] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██████╗  ██████╗   ╚███╔╝ ████████████╗
+[21:07:06] [Server thread/INFO]: [TuffXPlus]    ██║   ██║   ██║██╔═══╝  ██╔═══╝   ██╔██╗ ╚════██╔════╝
+[21:07:06] [Server thread/INFO]: [TuffXPlus]    ██║   ╚██████╔╝██║      ██║      ██╔╝╚██╗     ██║
+[21:07:06] [Server thread/INFO]: [TuffXPlus]    ╚═╝    ╚═════╝ ╚═╝      ╚═╝      ╚═╝  ╚═╝     ╚═╝
+[21:07:06] [Server thread/INFO]: [TuffXPlus] 
+[21:07:06] [Server thread/INFO]: [TuffXPlus] CREDITS
+[21:07:06] [Server thread/INFO]: [TuffXPlus] 
+[21:07:06] [Server thread/INFO]: [TuffXPlus] Y0 support:
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • Below y0 (client + plugin) programmed by Potato (@justatypicalpotato)
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • llucasandersen - plugin optimizations
+[21:07:06] [Server thread/INFO]: [TuffXPlus] 
+[21:07:06] [Server thread/INFO]: [TuffXPlus] ViaBlocks:
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • ViaBlocks partial plugin and client rewrite by Potato
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • llucasandersen (Complex client models and texture fixes,
+[21:07:06] [Server thread/INFO]: [TuffXPlus] 	  optimizations, PacketEvents migration and async safety fixes)
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • coleis1op, if ts is driving me crazy, im taking credit
+[21:07:06] [Server thread/INFO]: [TuffXPlus] 
+[21:07:06] [Server thread/INFO]: [TuffXPlus] Other:
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • Swimming and creative items programmed by Potato (@justatypicalpotato)
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • shaded build, 1.14+ support (before merge) - llucasandersen
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • Restrictions - UplandJacob
+[21:07:06] [Server thread/INFO]: [TuffXPlus] • Overall plugin merges by Potato
+[21:07:06] [Server thread/INFO]: [Chunky] Enabling Chunky v1.5.3
+[21:07:06] [Server thread/INFO]: [WildRTP] Enabling WildRTP v3.6.5
+[21:07:07] [Server thread/INFO]: [WildRTP] WildRTP by Joni running version: 3.6.5
+[21:07:07] [Server thread/INFO]: [WildRTP] Checking for updates...
+[21:07:07] [Server thread/INFO]: [LocatorBar] Enabling LocatorBar v1.1
+[21:07:07] [Server thread/INFO]: [LocatorBar] bStats metrics enabled!
+[21:07:07] [Server thread/INFO]: [LocatorBar] LocatorBar has been enabled successfully!
+[21:07:07] [Server thread/INFO]: [AttributeSwapFixer] Enabling AttributeSwapFixer v1.0
+[21:07:07] [Server thread/INFO]: [BetterStasis] Enabling BetterStasis v1.5.0
+[21:07:07] [Server thread/WARN]: [BetterStasis] Vault not found! Economy features will be disabled.
+[21:07:07] [Server thread/INFO]: [BetterStasis] Better Stasis plugin enabled!
+[21:07:07] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.22.1-dev+23-43cb76a
+[21:07:07] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[21:07:07] [Server thread/INFO]: [AntiBookBan] Enabling AntiBookBan v1.0.0
+[21:07:07] [Server thread/INFO]: [AntiBookBan] AntiBookBan enabled. Shulker limit: 2.00 MB, max 25 book pages (ASCII only)
+[21:07:07] [Server thread/INFO]: [ClearLag] Enabling ClearLag v1.13.0
+[21:07:07] [Server thread/INFO]: [ClearLag] Plugin hooks detected: FancyHolograms
+[21:07:07] [Server thread/INFO]: [ClearLag] Hook enabled: FancyHolograms
+[21:07:07] [Server thread/INFO]: [ClearLag] ClearLag configuration reloaded.
+[21:07:07] [ForkJoinPool.commonPool-worker-1/INFO]: [WildRTP] A new version is available! Current: 3.6.5 Latest: 4.0
+[21:07:07] [ForkJoinPool.commonPool-worker-1/INFO]: [WildRTP] https://modrinth.com/plugin/wildrtp/version/4.0
+[21:07:07] [Server thread/INFO]: [ClearLag] Loaded 0 player preferences.
+[21:07:07] [Server thread/WARN]: [ClearLag] Luckperms detected! Running in advanced permission mode.
+[21:07:07] [Server thread/INFO]: [ClearLag] Dynamic View Distance enabled.
+[21:07:07] [Server thread/INFO]: [ClearLag] Explosion optimization enabled.
+[21:07:07] [Server thread/INFO]: [ClearLag] Auto-Clear is enabled and starts every 300 seconds.
+[21:07:07] [Server thread/INFO]: [ClearLag] Mob AI Optimization is enabled.
+[21:07:07] [Server thread/INFO]: [ClearLag] Performance Warnings are enabled.
+[21:07:07] [Server thread/WARN]: [ClearLag] PlaceholderAPI not found! ClearLag placeholders will not work.
+[21:07:07] [Server thread/INFO]: [ClearLag] ClearLag has been successfully enabled!
+[21:07:07] [Server thread/INFO]: [spark] Starting background profiler...
+[21:07:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:07:08] [Server thread/INFO]: Running delayed init tasks
+[21:07:08] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:07:08] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:07:08] [Server thread/INFO]: [TuffXPlus] [Y0] Loading mappings from 26.2-mappings.json
+[21:07:08] [Craft Scheduler Thread - 2 - CombatLog/INFO]: [CombatLog] A new version is available!
+[21:07:08] [Craft Scheduler Thread - 2 - CombatLog/INFO]: [CombatLog] Current: 1.20 | Latest: 1.20+26.3
+[21:07:08] [Craft Scheduler Thread - 2 - CombatLog/INFO]: [CombatLog] https://modrinth.com/plugin/simple-combatlog/versions
+[21:07:08] [Craft Scheduler Thread - 0 - OrbitalStrike/WARN]: [OrbitalStrike] [OrbitalStrike] GitHub API ERROR: HTTP 404
+[21:07:08] [Craft Scheduler Thread - 6 - ClearLag/INFO]: ========================================
+[21:07:08] [Craft Scheduler Thread - 6 - ClearLag/INFO]: ClearLag is outdated!
+[21:07:08] [Craft Scheduler Thread - 6 - ClearLag/INFO]: Your version: 1.13.0
+[21:07:08] [Craft Scheduler Thread - 6 - ClearLag/INFO]: Newest version: 2.0.2
+[21:07:08] [Craft Scheduler Thread - 4 - AevorinReports/INFO]: [AevorinReports] A new version of AevorinReports (release) is available: 1.1.3
+[21:07:08] [Craft Scheduler Thread - 4 - AevorinReports/INFO]: [AevorinReports] Download it from: https://cdn.modrinth.com/data/OwqSnlXx/versions/8WzOely5/AevorinReports-1.1.3-all.jar
+[21:07:08] [Craft Scheduler Thread - 6 - ClearLag/INFO]: Download the new version here: https://modrinth.com/plugin/7bhTp28M
+[21:07:08] [Craft Scheduler Thread - 6 - ClearLag/INFO]: ========================================
+[21:07:08] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] You're 5 EssentialsX dev build(s) out of date!
+[21:07:08] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[21:07:08] [Server thread/INFO]: [TuffXPlus] [Y0] Loaded 29671 legacy mappings.
+[21:07:08] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.12.2, you're on: 5.11.0
+[21:07:08] [Server thread/INFO]: Done (47.922s)! For help, type "help"
+[21:07:08] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 releases and 24 builds behind!
+[21:07:08] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[21:09:04] [Server thread/INFO]: Mace Config reloaded.
+[21:09:15] [Server thread/INFO]: NoNetheritePlus configuration reloaded successfully!

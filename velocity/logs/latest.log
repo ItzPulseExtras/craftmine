@@ -1,222 +1,77 @@
-[00:00:56] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:39822) has disconnected
-[00:00:56] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has disconnected
-[00:01:00] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:48226) has connected
-[00:01:00] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[00:01:00] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[00:01:05] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
-[00:01:05] [nLogin - Task Executor #40/INFO] [nlogin]: The user Thundra1 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:01:05] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has connected
-[00:01:05] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[00:13:11] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:35642) has disconnected
-[00:13:11] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[00:13:39] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:57162) has connected
-[00:13:39] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[00:13:50] [nLogin - Task Executor #43/INFO] [nlogin]: The user dark6777 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:13:51] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[00:13:51] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[00:14:34] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:57162) has disconnected
-[00:14:34] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[00:14:58] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:60276) has connected
-[00:14:58] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[00:15:03] [nLogin - Task Executor #44/INFO] [nlogin]: The user dark6777 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:15:03] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[00:15:03] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[00:23:32] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:60276) has disconnected
-[00:23:32] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[00:23:34] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:41202) has connected
-[00:23:34] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[00:23:39] [nLogin - Task Executor #46/INFO] [nlogin]: The user dark6777 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:23:39] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[00:23:40] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[00:24:39] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:41202) has disconnected
-[00:24:39] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[00:24:41] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:46726) has connected
-[00:24:41] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[00:24:48] [nLogin - Task Executor #46/INFO] [nlogin]: The user dark6777 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:24:48] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[00:24:48] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[00:25:01] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:46726) has disconnected
-[00:25:01] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[00:25:02] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:54250) has connected
-[00:25:02] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[00:25:07] [nLogin - Task Executor #47/INFO] [nlogin]: The user dark6777 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:25:07] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[00:25:07] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[00:33:25] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:48226): kicked from server survival: multiplayer.disconnect.flying
-[00:33:25] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has disconnected
-[00:33:25] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[00:33:34] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:48226) has disconnected
-[00:33:34] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[00:33:36] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:35562) has connected
-[00:33:36] [Netty epoll Worker #2/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[00:33:36] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[00:33:47] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:35562) has disconnected
-[00:33:47] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[00:33:50] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:38778) has connected
-[00:33:50] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[00:33:50] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[00:33:56] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
-[00:33:56] [nLogin - Task Executor #47/INFO] [nlogin]: The user Thundra1 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:33:56] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has connected
-[00:33:56] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[00:41:50] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:38778) has disconnected
-[00:41:50] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has disconnected
-[00:41:52] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:46052) has connected
-[00:41:52] [Netty epoll Worker #1/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[00:41:52] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[00:41:57] [Netty epoll Worker #1/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
-[00:41:57] [nLogin - Task Executor #53/INFO] [nlogin]: The user Thundra1 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:41:57] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has connected
-[00:41:57] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[00:56:12] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:46052): kicked from server survival: multiplayer.disconnect.flying
-[00:56:12] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has disconnected
-[00:56:12] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[00:56:31] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:46052) has disconnected
-[00:56:31] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[00:56:33] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:45690) has connected
-[00:56:33] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[00:56:33] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[00:56:40] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
-[00:56:40] [nLogin - Task Executor #56/INFO] [nlogin]: The user Thundra1 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:56:40] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has connected
-[00:56:40] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[01:06:15] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] ironmanLJM (localhost/[0:0:0:0:0:0:0:1]:41644) has disconnected
-[01:06:15] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> survival has disconnected
-[01:39:26] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] ironmanLJM (localhost/[0:0:0:0:0:0:0:1]:35372) has connected
-[01:39:26] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[01:39:26] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> auth has connected
-[01:39:31] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
-[01:39:31] [nLogin - Task Executor #67/INFO] [nlogin]: The user ironmanLJM has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[01:39:31] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> survival has connected
-[01:39:31] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> auth has disconnected
-[01:48:00] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:54250): kicked from server survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:48:00] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[01:48:00] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[01:48:13] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:54250) has disconnected
-[01:48:13] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[01:48:14] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:57226) has connected
-[01:48:14] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[01:48:19] [nLogin - Task Executor #71/INFO] [nlogin]: The user dark6777 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[01:48:20] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[01:48:20] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[01:48:20] [Netty epoll Worker #5/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:57226): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:48:22] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:57226) has disconnected
-[01:48:22] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[01:48:31] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark677 (localhost/[0:0:0:0:0:0:0:1]:50352) has connected
-[01:48:31] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark677 -> auth has connected
-[01:48:37] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark677 (localhost/[0:0:0:0:0:0:0:1]:50352) has disconnected
-[01:48:37] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark677 -> auth has disconnected
-[01:48:44] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark67 (localhost/[0:0:0:0:0:0:0:1]:52274) has connected
-[01:48:44] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> auth has connected
-[01:48:49] [nLogin - Task Executor #71/INFO] [nlogin]: The user dark67 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[01:48:49] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> survival has connected
-[01:48:49] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> auth has disconnected
-[01:48:54] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] dark67 (localhost/[0:0:0:0:0:0:0:1]:52274): kicked from server survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:48:54] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> survival has disconnected
-[01:48:54] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> auth has connected
-[01:48:56] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark67 (localhost/[0:0:0:0:0:0:0:1]:52274) has disconnected
-[01:48:56] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> auth has disconnected
-[01:49:00] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:45690) has disconnected
-[01:49:00] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has disconnected
-[01:49:10] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark67 (localhost/[0:0:0:0:0:0:0:1]:39740) has connected
-[01:49:10] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> auth has connected
-[01:49:15] [nLogin - Task Executor #69/INFO] [nlogin]: The user dark67 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[01:49:15] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> survival has connected
-[01:49:15] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> survival has disconnected
-[01:49:15] [Netty epoll Worker #2/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] dark67 (localhost/[0:0:0:0:0:0:0:1]:39740): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:49:16] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark67 (localhost/[0:0:0:0:0:0:0:1]:39740) has disconnected
-[01:49:16] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark67 -> auth has disconnected
-[01:50:07] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:41856) has connected
-[01:50:07] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has connected
-[01:50:11] [nLogin - Task Executor #71/INFO] [nlogin]: The user dark6777 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[01:50:12] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[01:50:12] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[01:50:12] [Netty epoll Worker #3/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:41856): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:50:17] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[01:50:17] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[01:50:17] [Netty epoll Worker #3/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:41856): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[01:50:22] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has connected
-[01:50:22] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> auth has disconnected
-[02:10:18] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] dark6777 (localhost/[0:0:0:0:0:0:0:1]:41856) has disconnected
-[02:10:18] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] dark6777 -> survival has disconnected
-[02:11:17] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] ironmanLJM (localhost/[0:0:0:0:0:0:0:1]:35372) has disconnected
-[02:11:17] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> survival has disconnected
-[02:13:03] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:44634) has connected
-[02:13:03] [Netty epoll Worker #6/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[02:13:03] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[02:13:08] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:44634) has disconnected
-[02:13:08] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[02:13:10] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:44642) has connected
-[02:13:10] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[02:13:10] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has connected
-[02:13:15] [Netty epoll Worker #7/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
-[02:13:15] [nLogin - Task Executor #71/INFO] [nlogin]: The user Thundra1 has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[02:13:15] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has connected
-[02:13:15] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> auth has disconnected
-[02:13:24] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Thundra1 (localhost/[0:0:0:0:0:0:0:1]:44642) has disconnected
-[02:13:24] [Netty epoll Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Thundra1 -> survival has disconnected
-[02:15:33] [Shutdown thread/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
-[02:15:33] [Shutdown thread/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
-[02:15:33] [EaglercraftXServer - Task Executor #2/INFO] [eaglerxserver]: Disabling EaglercraftXServer 1.1.1...
-[02:15:33] [EaglercraftXServer - Task Executor #2/INFO] [eaglerxserver]: Disconnecting from skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
-[02:15:33] [EaglercraftXServer - Task Executor #2/INFO] [eaglerxserver]: Disconnected from skin cache database successfully!
-[02:15:33] [EaglercraftXServer - Task Executor #2/INFO] [nantibot]: Successful plugin core shutdown (took 0.00s)
-[02:15:33] [EaglercraftXServer - Task Executor #2/INFO] [nantibot]: Disconnecting from remote server...
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: Exception in thread "main" java.lang.IllegalStateException: Terminal has been closed
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.terminal.impl.AbstractTerminal.checkClosed(AbstractTerminal.java:796)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.terminal.impl.AbstractUnixSysTerminal.writer(AbstractUnixSysTerminal.java:207)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.utils.Display.update(Display.java:771)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.redisplay(LineReaderImpl.java:3924)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2535)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2526)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:727)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
-[02:15:33] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at com.velocitypowered.proxy.Velocity.main(Velocity.java:77)
-[02:15:35] [EaglercraftXServer - Task Executor #2/INFO] [nlogin]: Successful plugin core shutdown (took 0.00s)
-[02:15:35] [EaglercraftXServer - Task Executor #2/INFO] [luckperms]: Starting shutdown process...
-[02:15:35] [EaglercraftXServer - Task Executor #2/INFO] [luckperms]: Closing storage...
-[02:15:35] [EaglercraftXServer - Task Executor #2/INFO] [luckperms]: Goodbye!
+[21:06:22] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 4.1.0-SNAPSHOT (git-00759e52-b16)...
+[21:06:23] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
+[21:06:23] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[21:06:24] [main/INFO] [com.velocitypowered.proxy.config.VelocityConfiguration]: Unable to load your server-icon.png, continuing without it.
+java.lang.IllegalArgumentException: Image is not 64x64 (found 436x441)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:307)
+	at com.velocitypowered.api.util.Favicon.create(Favicon.java:82)
+	at com.velocitypowered.api.util.Favicon.create(Favicon.java:107)
+	at com.velocitypowered.proxy.config.VelocityConfiguration.loadFavicon(VelocityConfiguration.java:253)
+	at com.velocitypowered.proxy.config.VelocityConfiguration.validate(VelocityConfiguration.java:244)
+	at com.velocitypowered.proxy.VelocityServer.doStartupConfigLoad(VelocityServer.java:409)
+	at com.velocitypowered.proxy.VelocityServer.start(VelocityServer.java:293)
+	at com.velocitypowered.proxy.Velocity.main(Velocity.java:71)
+[21:06:24] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[21:06:24] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[21:06:25] [main/INFO] [eaglerxserver]: Loading EaglercraftXServer 1.1.1...
+[21:06:25] [main/INFO] [eaglerxserver]: (Platform: Velocity)
+[21:06:25] [main/INFO] [eaglerxserver]: Server Name: "EaglercraftXServer"
+[21:06:25] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxserver 1.1.1 by lax1dude
+[21:06:25] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin luckperms 5.5.71 by Luck
+[21:06:26] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nantibot 2.0.8 by NickUC
+[21:06:26] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 2.0.25 by NickUC
+[21:06:26] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viaversion 5.12.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+[21:06:26] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viabackwards 5.12.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+[21:06:26] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 7 plugins
+[21:06:27] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading configuration...
+[21:06:27] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:         __    
+[21:06:27] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |    |__)   LuckPerms v5.5.71
+[21:06:27] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |___ |      Running on Velocity
+[21:06:27] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[21:06:28] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading storage provider... [H2]
+[21:06:29] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading internal permission managers...
+[21:06:29] [LuckPerms - Task Executor #0/INFO] [luckperms]: Performing initial data load...
+[21:06:29] [LuckPerms - Task Executor #0/INFO] [luckperms]: Successfully enabled. (took 2808ms)
+[21:06:29] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:06:29] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Enabling EaglercraftXServer 1.1.1...
+[21:06:29] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[21:06:29] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Connected to skin cache database successfully!
+[21:06:29] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Reloaded certificate: /workspaces/craftmine/velocity/plugins/eaglerxserver/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+[21:06:29] [EaglercraftXServer - Task Executor #0/WARN] [eaglerxserver]: Update certificate was loaded: $dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+[21:06:31] [Netty epoll Worker #0/INFO] [eaglerxserver]: You are running the latest version of EaglerXServer
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [nantibot]: Successful plugin core start (took 1.90s)
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]           _         _   _   ___       _   
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]                                          
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  By: www.nickuc.com - V 2.0.8
+[21:06:33] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot] 
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [nlogin]: Successful plugin core start (took 1.86s)
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]           __             _       
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]   _ __   / /  ___   __ _(_)_ __  
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  | '_ \ / /  / _ \ / _` | | '_ \ 
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  | | | / /__| (_) | (_| | | | | |
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  |_| |_\____/\___/ \__, |_|_| |_|
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]                   |___/            
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  By: www.nickuc.com - V 2.0.25
+[21:06:37] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  
+[21:06:40] [LuckPerms - Task Executor #0/INFO] [nlogin]: Loading packetevents-velocity 2.14.0-SNAPSHOT...
+[21:06:41] [pool-7-thread-1/INFO] [nantibot]: [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 51, threads = 4, took 8.30s)
+[21:06:45] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:06:47] [LuckPerms - Task Executor #0/INFO] [viaversion]: Replacing channel initializers; you can safely ignore the following two warnings.
+[21:06:47] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:06:47] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:06:47] [LuckPerms - Task Executor #0/INFO] [viabackwards]: Loading translations...
+[21:06:47] [LuckPerms - Task Executor #0/INFO] [viabackwards]: Registering protocols...
+[21:06:47] [LuckPerms - Task Executor #0/INFO] [viaversion]: ViaVersion detected lowest supported version by the proxy: 1.13 (393)
+[21:06:47] [LuckPerms - Task Executor #0/INFO] [viaversion]: Highest supported version by the proxy: 26.2 (776)
+[21:06:47] [LuckPerms - Task Executor #0/WARN] [viaversion]: The Vanilla protocol of Minecraft 1.20.5-1.21.4 is easily exploitable. If you don't need to support these versions, consider adding them to block-versions in the ViaVersion config: "1.20.5-1.20.6", "1.21-1.21.1", "1.21.2-1.21.3", "1.21.4"
+[21:06:47] [main/INFO] [nantibot]: Injecting channel initializers
+[21:06:47] [main/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:06:47] [Netty epoll Boss #0/INFO] [eaglerxserver]: Listener "listener0" injected into channel [id: 0xb025f937, L:/[0:0:0:0:0:0:0:0]:25565] successfully (Velocity method)
+[21:06:47] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[21:06:47] [nAntiBot - Task Executor #0/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
+[21:06:47] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (26.09s)!
+[21:06:48] [ViaVersion - Task Executor #0/INFO] [viaversion]: Finished mapping loading, shutting down loader executor.
