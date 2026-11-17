@@ -1,7 +1,7 @@
-[00:07:56] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 4.1.0-SNAPSHOT (git-00759e52-b16)...
-[00:07:56] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
-[00:07:57] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
-[00:07:57] [main/INFO] [com.velocitypowered.proxy.config.VelocityConfiguration]: Unable to load your server-icon.png, continuing without it.
+[21:53:30] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 4.1.0-SNAPSHOT (git-00759e52-b16)...
+[21:53:31] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
+[21:53:32] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[21:53:34] [main/INFO] [com.velocitypowered.proxy.config.VelocityConfiguration]: Unable to load your server-icon.png, continuing without it.
 java.lang.IllegalArgumentException: Image is not 64x64 (found 436x441)
 	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:307)
 	at com.velocitypowered.api.util.Favicon.create(Favicon.java:82)
@@ -11,202 +11,67 @@ java.lang.IllegalArgumentException: Image is not 64x64 (found 436x441)
 	at com.velocitypowered.proxy.VelocityServer.doStartupConfigLoad(VelocityServer.java:409)
 	at com.velocitypowered.proxy.VelocityServer.start(VelocityServer.java:293)
 	at com.velocitypowered.proxy.Velocity.main(Velocity.java:71)
-[00:07:57] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
-[00:07:57] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
-[00:07:58] [main/INFO] [eaglerxserver]: Loading EaglercraftXServer 1.1.1...
-[00:07:58] [main/INFO] [eaglerxserver]: (Platform: Velocity)
-[00:07:58] [main/INFO] [eaglerxserver]: Server Name: "EaglercraftXServer"
-[00:07:59] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxserver 1.1.1 by lax1dude
-[00:07:59] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin luckperms 5.5.71 by Luck
-[00:07:59] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nantibot 2.0.8 by NickUC
-[00:07:59] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 2.0.25 by NickUC
-[00:07:59] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viaversion 5.12.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
-[00:07:59] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viabackwards 5.12.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
-[00:07:59] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 7 plugins
-[00:08:00] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading configuration...
-[00:08:01] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:         __    
-[00:08:01] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |    |__)   LuckPerms v5.5.71
-[00:08:01] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |___ |      Running on Velocity
-[00:08:01] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[00:08:01] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading storage provider... [H2]
-[00:08:02] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading internal permission managers...
-[00:08:02] [LuckPerms - Task Executor #0/INFO] [luckperms]: Performing initial data load...
-[00:08:02] [LuckPerms - Task Executor #0/INFO] [luckperms]: Successfully enabled. (took 3070ms)
-[00:08:02] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[00:08:02] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Enabling EaglercraftXServer 1.1.1...
-[00:08:02] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
-[00:08:03] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Connected to skin cache database successfully!
-[00:08:03] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Reloaded certificate: /workspaces/craftmine/velocity/plugins/eaglerxserver/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
-[00:08:03] [EaglercraftXServer - Task Executor #0/WARN] [eaglerxserver]: Update certificate was loaded: $dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
-[00:08:04] [Netty epoll Worker #0/INFO] [eaglerxserver]: You are running the latest version of EaglerXServer
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [nantibot]: Successful plugin core start (took 2.56s)
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]           _         _   _   ___       _   
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]                                          
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  By: www.nickuc.com - V 2.0.8
-[00:08:06] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot] 
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [nlogin]: Successful plugin core start (took 1.23s)
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]           __             _       
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]   _ __   / /  ___   __ _(_)_ __  
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  | '_ \ / /  / _ \ / _` | | '_ \ 
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  | | | / /__| (_) | (_| | | | | |
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  |_| |_\____/\___/ \__, |_|_| |_|
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]                   |___/            
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  By: www.nickuc.com - V 2.0.25
-[00:08:11] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  
-[00:08:12] [LuckPerms - Task Executor #0/INFO] [nlogin]: Loading packetevents-velocity 2.14.0-SNAPSHOT...
-[00:08:16] [pool-7-thread-4/INFO] [nantibot]: [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 51, threads = 4, took 9.45s)
-[00:08:20] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[00:08:22] [LuckPerms - Task Executor #0/INFO] [viaversion]: Replacing channel initializers; you can safely ignore the following two warnings.
-[00:08:22] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[00:08:22] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[00:08:22] [LuckPerms - Task Executor #0/INFO] [viabackwards]: Loading translations...
-[00:08:22] [LuckPerms - Task Executor #0/INFO] [viabackwards]: Registering protocols...
-[00:08:22] [LuckPerms - Task Executor #0/INFO] [viaversion]: ViaVersion detected lowest supported version by the proxy: 1.13 (393)
-[00:08:22] [LuckPerms - Task Executor #0/INFO] [viaversion]: Highest supported version by the proxy: 26.2 (776)
-[00:08:22] [LuckPerms - Task Executor #0/WARN] [viaversion]: The Vanilla protocol of Minecraft 1.20.5-1.21.4 is easily exploitable. If you don't need to support these versions, consider adding them to block-versions in the ViaVersion config: "1.20.5-1.20.6", "1.21-1.21.1", "1.21.2-1.21.3", "1.21.4"
-[00:08:22] [main/INFO] [nantibot]: Injecting channel initializers
-[00:08:22] [main/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[00:08:22] [Netty epoll Boss #0/INFO] [eaglerxserver]: Listener "listener0" injected into channel [id: 0xad22d22f, L:/[0:0:0:0:0:0:0:0]:25565] successfully (Velocity method)
-[00:08:22] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
-[00:08:22] [nAntiBot - Task Executor #1/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
-[00:08:23] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (28.3s)!
-[00:08:23] [ViaVersion - Task Executor #0/INFO] [viaversion]: Finished mapping loading, shutting down loader executor.
-[00:23:13] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] ironmanLJM (localhost/[0:0:0:0:0:0:0:1]:41316) has connected
-[00:23:13] [Netty epoll Worker #1/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
-[00:23:13] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> auth has connected
-[00:23:23] [Netty epoll Worker #1/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
-[00:23:23] [nLogin - Task Executor #4/INFO] [nlogin]: The user ironmanLJM has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:23:24] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> survival has connected
-[00:23:25] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> auth has disconnected
-[00:23:33] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] BlueFischer1 (localhost/[0:0:0:0:0:0:0:1]:47188) has connected
-[00:23:33] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer1 -> auth has connected
-[00:23:36] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] BlueFischer1 (localhost/[0:0:0:0:0:0:0:1]:47188) has disconnected
-[00:23:36] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer1 -> auth has disconnected
-[00:23:43] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538) has connected
-[00:23:44] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> auth has connected
-[00:23:54] [nLogin - Task Executor #1/INFO] [nlogin]: The user BlueFischer has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
-[00:23:54] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:23:54] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:23:54] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:23:59] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:23:59] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:23:59] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:04] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:24:04] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:24:04] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:09] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:24:09] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:24:09] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:11] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:24:11] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:24:11] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:14] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:24:14] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:24:14] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:19] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:24:19] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:24:19] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:24] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:24:24] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:24:24] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:29] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has connected
-[00:24:29] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> survival has disconnected
-[00:24:29] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538): disconnected while connecting to survival: AdvancedBanZ » Permanently banned
-
-
-Reason » No reason provided.
-
-Unban application in TS or forum
-TS-Ip » coming soon
-Forum » coming soon
-[00:24:32] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Vyqzren (localhost/[0:0:0:0:0:0:0:1]:36534) has connected
-[00:24:32] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Vyqzren -> auth has connected
-[00:24:32] [Shutdown thread/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
-[00:24:32] [Shutdown thread/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
-[00:24:32] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] BlueFischer (localhost/[0:0:0:0:0:0:0:1]:39538) has disconnected: Proxy shutting down.
-[00:24:32] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] ironmanLJM (localhost/[0:0:0:0:0:0:0:1]:41316) has disconnected: Proxy shutting down.
-[00:24:32] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Vyqzren (localhost/[0:0:0:0:0:0:0:1]:36534) has disconnected: Proxy shutting down.
-[00:24:32] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> survival has disconnected
-[00:24:32] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Vyqzren -> auth has disconnected
-[00:24:32] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] BlueFischer -> auth has disconnected
-[00:24:32] [EaglercraftXServer - Task Executor #1/INFO] [eaglerxserver]: Disabling EaglercraftXServer 1.1.1...
-[00:24:32] [EaglercraftXServer - Task Executor #1/INFO] [eaglerxserver]: Disconnecting from skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
-[00:24:32] [EaglercraftXServer - Task Executor #1/INFO] [eaglerxserver]: Disconnected from skin cache database successfully!
-[00:24:32] [EaglercraftXServer - Task Executor #1/INFO] [nantibot]: Successful plugin core shutdown (took 0.01s)
-[00:24:32] [EaglercraftXServer - Task Executor #1/INFO] [nantibot]: Disconnecting from remote server...
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: Exception in thread "main" java.lang.IllegalStateException: Terminal has been closed
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.terminal.impl.AbstractTerminal.checkClosed(AbstractTerminal.java:796)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.terminal.impl.AbstractUnixSysTerminal.writer(AbstractUnixSysTerminal.java:207)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.terminal.impl.AbstractTerminal.puts(AbstractTerminal.java:284)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.println(LineReaderImpl.java:5502)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2537)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2526)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:727)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
-[00:24:32] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: 	at com.velocitypowered.proxy.Velocity.main(Velocity.java:77)
-[00:24:34] [EaglercraftXServer - Task Executor #1/INFO] [nlogin]: Successful plugin core shutdown (took 0.00s)
-[00:24:34] [EaglercraftXServer - Task Executor #1/INFO] [luckperms]: Starting shutdown process...
-[00:24:34] [EaglercraftXServer - Task Executor #1/INFO] [luckperms]: Closing storage...
-[00:24:34] [EaglercraftXServer - Task Executor #1/INFO] [luckperms]: Goodbye!
+[21:53:34] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[21:53:34] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[21:53:38] [main/INFO] [eaglerxserver]: Loading EaglercraftXServer 1.1.1...
+[21:53:38] [main/INFO] [eaglerxserver]: (Platform: Velocity)
+[21:53:39] [main/INFO] [eaglerxserver]: Server Name: "EaglercraftXServer"
+[21:53:40] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxserver 1.1.1 by lax1dude
+[21:53:41] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin luckperms 5.5.71 by Luck
+[21:53:42] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nantibot 2.0.8 by NickUC
+[21:53:43] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 2.0.25 by NickUC
+[21:53:43] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viaversion 5.12.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+[21:53:43] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viabackwards 5.12.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+[21:53:44] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 7 plugins
+[21:53:46] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading configuration...
+[21:53:48] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:         __    
+[21:53:48] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |    |__)   LuckPerms v5.5.71
+[21:53:48] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |___ |      Running on Velocity
+[21:53:48] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[21:53:49] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading storage provider... [H2]
+[21:53:51] [LuckPerms - Task Executor #0/INFO] [luckperms]: Loading internal permission managers...
+[21:53:52] [LuckPerms - Task Executor #0/INFO] [luckperms]: Performing initial data load...
+[21:53:52] [LuckPerms - Task Executor #0/INFO] [luckperms]: Successfully enabled. (took 8019ms)
+[21:53:52] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:53:52] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Enabling EaglercraftXServer 1.1.1...
+[21:53:52] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[21:53:53] [LuckPerms - Task Executor #0/INFO] [eaglerxserver]: Connected to skin cache database successfully!
+[21:53:53] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Reloaded certificate: /workspaces/craftmine/velocity/plugins/eaglerxserver/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+[21:53:53] [EaglercraftXServer - Task Executor #0/WARN] [eaglerxserver]: Update certificate was loaded: $dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+[21:53:54] [Netty epoll Worker #0/INFO] [eaglerxserver]: You are running the latest version of EaglerXServer
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [nantibot]: Successful plugin core start (took 2.05s)
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]           _         _   _   ___       _   
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]                                          
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot]  By: www.nickuc.com - V 2.0.8
+[21:53:57] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nAntiBot] 
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [nlogin]: Successful plugin core start (took 1.34s)
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]           __             _       
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]   _ __   / /  ___   __ _(_)_ __  
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  | '_ \ / /  / _ \ / _` | | '_ \ 
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  | | | / /__| (_) | (_| | | | | |
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  |_| |_\____/\___/ \__, |_|_| |_|
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]                   |___/            
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  By: www.nickuc.com - V 2.0.25
+[21:54:03] [LuckPerms - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: [nLogin]  
+[21:54:05] [LuckPerms - Task Executor #0/INFO] [nlogin]: Loading packetevents-velocity 2.14.0-SNAPSHOT...
+[21:54:06] [pool-7-thread-4/INFO] [nantibot]: [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 51, threads = 4, took 8.42s)
+[21:54:11] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:54:15] [LuckPerms - Task Executor #0/INFO] [viaversion]: Replacing channel initializers; you can safely ignore the following two warnings.
+[21:54:15] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:54:15] [LuckPerms - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:54:15] [LuckPerms - Task Executor #0/INFO] [viabackwards]: Loading translations...
+[21:54:15] [LuckPerms - Task Executor #0/INFO] [viabackwards]: Registering protocols...
+[21:54:15] [LuckPerms - Task Executor #0/INFO] [viaversion]: ViaVersion detected lowest supported version by the proxy: 1.13 (393)
+[21:54:15] [LuckPerms - Task Executor #0/INFO] [viaversion]: Highest supported version by the proxy: 26.2 (776)
+[21:54:15] [ViaVersion - Task Executor #2/INFO] [viaversion]: Finished mapping loading, shutting down loader executor.
+[21:54:15] [LuckPerms - Task Executor #0/WARN] [viaversion]: The Vanilla protocol of Minecraft 1.20.5-1.21.4 is easily exploitable. If you don't need to support these versions, consider adding them to block-versions in the ViaVersion config: "1.20.5-1.20.6", "1.21-1.21.1", "1.21.2-1.21.3", "1.21.4"
+[21:54:15] [main/INFO] [nantibot]: Injecting channel initializers
+[21:54:15] [main/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:54:15] [Netty epoll Boss #0/INFO] [eaglerxserver]: Listener "listener0" injected into channel [id: 0x0e631b17, L:/[0:0:0:0:0:0:0:0]:25565] successfully (Velocity method)
+[21:54:15] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[21:54:15] [nAntiBot - Task Executor #0/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
+[21:54:15] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (51.49s)!
