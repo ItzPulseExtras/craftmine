@@ -75,3 +75,12 @@ java.lang.IllegalArgumentException: Image is not 64x64 (found 436x441)
 [21:54:15] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
 [21:54:15] [nAntiBot - Task Executor #0/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
 [21:54:15] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (51.49s)!
+[21:54:42] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] ironmanLJM (localhost/[0:0:0:0:0:0:0:1]:47112) has connected
+[21:54:42] [Netty epoll Worker #6/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF LOGIN 0x00->0x00
+[21:54:42] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> auth has connected
+[21:54:53] [Netty epoll Worker #6/WARN] [viaversion]: ERROR IN Protocol26_2To26_3 IN REMAP OF TAB_LIST (0x7A)
+[21:54:53] [nLogin - Task Executor #1/INFO] [nlogin]: The user ironmanLJM has successfully logged in. (using password = true, caller = com.nickuc.login.χΣυσφλελΣμεψξ.a(:114))
+[21:54:53] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> survival has connected
+[21:54:54] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> auth has disconnected
+[21:56:37] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] ironmanLJM (localhost/[0:0:0:0:0:0:0:1]:47112) has disconnected
+[21:56:37] [Netty epoll Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] ironmanLJM -> survival has disconnected

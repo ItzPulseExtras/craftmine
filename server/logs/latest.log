@@ -348,3 +348,128 @@ com.google.gson.JsonParseException: Pack declares support for version newer than
 [21:54:35] [Server thread/INFO]: Done (75.269s)! For help, type "help"
 [21:54:35] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 releases and 24 builds behind!
 [21:54:35] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[21:54:53] [User Authenticator #0/INFO]: UUID of player ironmanLJM is d00c14c9-9ee3-3788-b053-a1de57b43b72
+[21:54:53] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, WorldGuard]
+[21:54:57] [Server thread/INFO]: ironmanLJM joined the game
+[21:54:57] [Server thread/INFO]: ironmanLJM[/[0:0:0:0:0:0:0:1]:41794] logged in with entity id 1 at ([minecraft:overworld]-9926.07427728385, 65.5625, -291.178342371737)
+[21:56:37] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
+[21:56:37] [Server thread/INFO]: ironmanLJM left the game
+[21:56:52] [Server thread/INFO]: Stopping server
+[21:56:52] [Server thread/INFO]: [ClearLag] Disabling ClearLag v1.13.0
+[21:56:52] [Server thread/INFO]: [ClearLag] ClearLag has been disabled!
+[21:56:52] [Server thread/INFO]: [AntiBookBan] Disabling AntiBookBan v1.0.0
+[21:56:52] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.22.1-dev+23-43cb76a
+[21:56:52] [Server thread/INFO]: [BetterStasis] Disabling BetterStasis v1.5.0
+[21:56:52] [Server thread/INFO]: [BetterStasis] Better Stasis plugin disabled!
+[21:56:52] [Server thread/INFO]: [AttributeSwapFixer] Disabling AttributeSwapFixer v1.0
+[21:56:52] [Server thread/INFO]: [LocatorBar] Disabling LocatorBar v1.1
+[21:56:52] [Server thread/INFO]: [LocatorBar] LocatorBar has been disabled!
+[21:56:52] [Server thread/INFO]: [WildRTP] Disabling WildRTP v3.6.5
+[21:56:53] [Server thread/INFO]: [Chunky] Disabling Chunky v1.5.3
+[21:56:53] [Server thread/INFO]: [TuffXPlus] Disabling TuffXPlus v1.1.1
+[21:56:53] [Server thread/INFO]: [TuffXPlus] [ViaBlocks] ViaBlocks has been disabled.
+[21:56:53] [Server thread/INFO]: [DragonEggTracker] Disabling DragonEggTracker v2.1.2m
+[21:56:53] [Server thread/INFO]: [DragonEggTracker] DragonEggTracker disabled.
+[21:56:53] [Server thread/INFO]: [AxSmithing] Disabling AxSmithing v1.9
+[21:56:53] [Server thread/INFO]: [AevorinReports] Disabling AevorinReports v1.1.2
+[21:56:53] [Server thread/INFO]: [AevorinReports] Shutting down AevorinReports
+[21:56:53] [Server thread/INFO]: [AevorinReports] Closing database connections...
+[21:56:53] [Server thread/INFO]: [dev.aevorinstudios.aevorinreports.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[21:56:53] [Server thread/INFO]: [dev.aevorinstudios.aevorinreports.libs.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[21:56:53] [Server thread/INFO]: [AevorinReports] Database connections closed successfully.
+[21:56:53] [Server thread/ERROR]: [dev.aevorinstudios.aevorinReports.database.DatabaseManager] Failed to get report count for status PENDING: HikariDataSource HikariDataSource (HikariPool-1) has been closed.
+[21:56:53] [Server thread/ERROR]: [dev.aevorinstudios.aevorinReports.database.DatabaseManager] Failed to get total reports count: HikariDataSource HikariDataSource (HikariPool-1) has been closed.
+[21:56:53] [Server thread/INFO]: [AevorinReports] AevorinReports has been disabled!
+[21:56:53] [Server thread/INFO]: [VillagerVault] Disabling VillagerVault v1.0.0
+[21:56:53] [Server thread/INFO]: [VillagerVault] VillagerVault has been disabled.
+[21:56:53] [Server thread/INFO]: [LPC] Disabling LPC v3.7.2
+[21:56:53] [Server thread/INFO]: [InvisDeathMessage] Disabling InvisDeathMessage v0.1.0
+[21:56:53] [Server thread/INFO]: [OrbitalStrike] Disabling OrbitalStrike v1.6.8
+[21:56:53] [Server thread/INFO]: [Better-WebConsole] Disabling Better-WebConsole v2.4.11
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: Uncaught exception thrown in thread spark-monitoring-1-thread-1
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: java.util.concurrent.CancellationException
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: 	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:123)
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: 	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:193)
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: 	at me.lucko.spark.paper.common.util.SparkScheduledThreadPoolExecutor.afterExecute(SparkScheduledThreadPoolExecutor.java:48)
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1091)
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+[21:56:53] [spark-monitoring-1-thread-1/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[21:56:54] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.Server] Stopped Server@24657c5f{STOPPING}[11.0.20,sto=0]
+[21:56:54] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.AbstractConnector] Stopped ServerConnector@5e915875{HTTP/1.1, (http/1.1)}{0.0.0.0:4242}
+[21:56:54] [Server thread/INFO]: [dev.webconsole.shaded.jetty.server.handler.ContextHandler] Stopped d.w.s.j.s.ServletContextHandler@49701cf6{/,null,STOPPED}
+[21:56:54] [Server thread/INFO]: [Better-WebConsole] Better-WebConsole disabled.
+[21:56:54] [Server thread/INFO]: [ClickVillagers] Disabling ClickVillagers v1.6.3
+[21:56:54] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.20
+[21:56:54] [Server thread/INFO]: [LuckTags] Disabling LuckTags v1.4
+[21:56:54] [Server thread/INFO]: [AdvancedBanZ] Disabling AdvancedBanZ v4.0.1
+[21:56:54] [Server thread/INFO]: [AdvancedBanZ] 
+
+[]=====[Disabling AdvancedBanZ]=====[]
+| Information:
+|   Name: AdvancedBanZ
+|   Developer: Leoko
+|   Maintainer & Updater: Author87668, 2vY
+|   Version: 4.0.1
+|   Storage: SQLite (local)
+| Support:
+|   GitHub: https://github.com/At87668/AdvancedBanZ/issues
+[]================================[]
+ 
+[21:56:54] [Server thread/INFO]: [FancyHolograms] Disabling FancyHolograms v2.11.0
+[21:56:54] [Server thread/ERROR]: Error occurred while disabling FancyHolograms v2.11.0
+java.util.concurrent.RejectedExecutionException: Task java.util.concurrent.FutureTask@423b566f[Not completed, task = java.util.concurrent.Executors$RunnableAdapter@47ff5a3b[Wrapped task = de.oliver.fancyanalytics.logger.FancyLogger$$Lambda/0x00000000316f67b8@7db45b29]] rejected from java.util.concurrent.ThreadPoolExecutor@4b179e5d[Terminated, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 3]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2032) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:787) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1328) ~[?:?]
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125) ~[?:?]
+	at java.base/java.util.concurrent.Executors$DelegatedExecutorService.submit(Executors.java:696) ~[?:?]
+	at FancyHolograms-2.11.0.jar//de.oliver.fancyanalytics.logger.FancyLogger.log(FancyLogger.java:117) ~[?:?]
+	at FancyHolograms-2.11.0.jar//de.oliver.fancyanalytics.logger.ExtendedFancyLogger.log(ExtendedFancyLogger.java:60) ~[?:?]
+	at FancyHolograms-2.11.0.jar//de.oliver.fancyanalytics.logger.ExtendedFancyLogger.info(ExtendedFancyLogger.java:77) ~[?:?]
+	at FancyHolograms-2.11.0.jar//de.oliver.fancyholograms.FancyHolograms.onDisable(FancyHolograms.java:188) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-26.2.build.111-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:236) ~[paper-26.2.jar:26.2-111-f570646]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:160) ~[paper-26.2.jar:26.2-111-f570646]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-26.2.jar:26.2-111-f570646]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:540) ~[paper-api-26.2.build.111-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:606) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1028) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:909) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1384) ~[paper-26.2.jar:26.2-111-f570646]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-26.2.jar:26.2-111-f570646]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[21:56:54] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.1-dev+23-43cb76a
+[21:56:54] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.11.0
+[21:56:54] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.18+2392-fa605e6
+[21:56:54] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:56:54] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.81
+[21:56:54] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:56:54] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:56:54] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:56:54] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.5+7590-b8dc4c1
+[21:56:54] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:56:54] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.11.0
+[21:56:54] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:56:54] [Server thread/INFO]: Saving players
+[21:56:54] [Server thread/INFO]: Saving worlds
+[21:56:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.00s
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[21:56:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[21:56:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[21:56:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:56:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:56:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:56:54] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:56:54] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:56:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:56:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

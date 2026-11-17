@@ -69,3 +69,45 @@
 [21:54:12] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.12.2, you're on: 5.11.0
 [21:54:13] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 releases and 24 builds behind!
 [21:54:13] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[21:54:42] [User Authenticator #0/INFO]: UUID of player ironmanLJM is d00c14c9-9ee3-3788-b053-a1de57b43b72
+[21:54:46] [Server thread/INFO]: ironmanLJM joined the game
+[21:54:46] [Server thread/INFO]: ironmanLJM[/[0:0:0:0:0:0:0:1]:44272] logged in with entity id 1 at ([minecraft:overworld]8.5, -2178.705221728373, 8.5)
+[21:54:54] [Server thread/INFO]: ironmanLJM lost connection: Disconnected
+[21:54:54] [Server thread/INFO]: ironmanLJM left the game
+[21:56:52] [Server thread/INFO]: Stopping server
+[21:56:52] [Server thread/INFO]: [nLogin] Disabling nLogin v2.0.25
+[21:56:52] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[21:56:52] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.11.0
+[21:56:52] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.11.0
+[21:56:52] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:56:52] [Server thread/INFO]: Saving players
+[21:56:52] [Server thread/INFO]: Saving worlds
+[21:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.00s
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[21:56:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[21:56:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[21:56:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[21:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:56:53] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:56:53] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:56:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:56:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
